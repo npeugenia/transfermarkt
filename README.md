@@ -1,57 +1,79 @@
-# transfermarkt
-Scrapping Python Project for data usage 
-Description du Projet
-Ce projet consiste en la collecte et l'analyse de données à partir du site Transfermarkt.fr. Grâce au web scraping, j'ai extrait des données relatives aux performances des joueurs, à leurs valeurs marchandes et à divers autres indicateurs. Ces informations ont été utilisées pour effectuer des analyses et générer des visualisations graphiques qui mettent en lumière différents aspects des joueurs et du marché.
+# Football Squad Builder
 
-Objectifs
-Collecter des données sur les joueurs de football depuis Transfermarkt.fr.
-Analyser les performances et les valeurs marchandes des joueurs.
-Créer des graphiques et des visualisations pour mieux interpréter les données et offrir des insights pertinents.
-Fonctionnalités du Projet
-Scraping des Données : Extraction des données des pages de joueurs sur Transfermarkt.fr en utilisant des scripts de scraping.
-Nettoyage et Préparation : Traitement des données brutes pour les rendre exploitables, suppression des doublons, gestion des valeurs manquantes, etc.
-Analyse des Données : Analyse statistique des performances, calculs des valeurs moyennes, comparaison de divers indicateurs.
-Visualisations Graphiques : Création de graphiques interactifs et statiques pour représenter les données de manière claire et intuitive (valeurs marchandes, performances comparatives, etc.).
+## Description
+Le **Football Squad Builder** est un projet innovant qui combine web scraping, analyse de données et simulation dans Football Manager 2024 (FM24). 
+L'objectif principal est d'explorer l'impact de la data dans la construction d'une équipe de football performante, en intégrant des joueurs sélectionnés sur la base de leur potentiel et de leur valeur de marché.
 
+Ce projet inclut :
+- **Scraping** des 500 joueurs les plus chers et les 500 jeunes les plus prometteurs (< 21 ans) depuis Transfermarkt.
+- **Simulation** d'une saison complète dans FM24 avec un club personnalisé, en analysant les performances et ajustant les stratégies.
+- **Développement** d'un site web permettant de générer une équipe en fonction d'un budget et d'une formation.
+
+---
+
+## Déroulement du projet
+
+### Saison dans FM24
+1. **Création du club et début de saison** : Avec une sélection initiale basée sur les données scrapées, notre équipe a démarré difficilement, se plaçant à la 18ème place en Premier League en janvier.
+2. **Recrutement intelligent** : Grâce à nos données, nous avons renforcé l’équipe lors du mercato hivernal.
+3. **Résultats** : Une remontée spectaculaire nous a permis de terminer 7ème, décrochant une place en Conference League.
+
+### Développement Web
+Nous travaillons actuellement sur un site web qui permettra aux utilisateurs de :
+- Entrer un budget (en millions).
+- Sélectionner une formation (ex : 4-3-3, 3-5-2, etc.).
+- Générer une équipe optimisée selon les données scrapées.
+
+---
+
+## Fonctionnalités (Actuelles et Futures)
+- **Scraping** : Extraction automatisée des données de Transfermarkt.
+- **Simulation FM** : Analyse des performances des joueurs et des stratégies.
+- **Génération d’équipes** : Création d’équipes optimisées selon des contraintes budgétaires et tactiques.
+- **Interface web (en cours)** : Un site intuitif pour démocratiser l’utilisation des données dans le football.
+
+---
+
+## Aperçu du Code
+
+Voici un extrait de notre script de scraping utilisé pour extraire les données :
+
+```python
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
-import time
 
-class MostValuablePlayersScraper:
-    def __init__(self):
-        self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-        }
-        self.base_url = 'https://www.transfermarkt.com'
+def scrape_transfermarkt(url):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'html.parser')
+    players = []
+    for player in soup.select('.spielerdaten'):
+        name = player.select_one('.name').text.strip()
+        value = player.select_one('.value').text.strip()
+        players.append({'name': name, 'value': value})
+    return players
 
-    def get_players_stats(self, base_url, total_pages=20):
-        all_players_stats = []
-        
-        for page in range(1, total_pages + 1):
-            if page == 1:
-                url = base_url
-            else:
-                url = f"{base_url}&page={page}"
-            
-            print(f"\nScraping page {page}/{total_pages}")
-            
-            response = requests.get(url, headers=self.headers)
-            if response.status_code != 200:
-                print(f"HTTP request error with code {response.status_code} for page {page}")
-                continue
-            
-            soup = BeautifulSoup(response.content, 'html.parser')
-            players = soup.select('table.items > tbody > tr[class*="odd"], table.items > tbody > tr[class*="even"]')
-          
-                    stats = {
-                        'matches': columns[4].text.strip() if len(columns) > 4 else "0",
-                        'goals': columns[5].text.strip() if len(columns) > 5 else "0",
-                        'assists': columns[6].text.strip() if len(columns) > 6 else "0",
-                        'yellow_cards': columns[7].text.strip() if len(columns) > 7 else "0",
-                        'second_yellows': columns[8].text.strip() if len(columns) > 8 else "0",
-                        'red_cards': columns[9].text.strip() if len(columns) > 9 else "0",
-                        'minutes_played': columns[10].text.strip() if len(columns) > 10 else "0",
-                        'goals_conceded': columns[11].text.strip() if len(columns) > 11 else "0",
-                        'clean_sheets': columns[12].text.strip() if len(columns) > 12 else "0"
-                    }
+# Exemple d'utilisation
+url = "https://www.transfermarkt.fr/some-page"
+data = scrape_transfermarkt(url)
+print(f"Joueurs extraits : {len(data)}")
+```
+
+---
+
+## Prochaines Étapes
+- [x] Finaliser la structure de données pour le site web.
+- [x] Continuer le développement de l'interface utilisateur.
+- [x] Tester la génération d’équipes sur différents budgets et formations.
+- [ ] Déployer le site web sur Vercel.
+
+---
+
+## Contact
+Pour toute question ou suggestion, contactez-nous :  
+**Nom** : Votre nom  
+**Email** : votre.email@example.com  
+**GitHub** : [Votre profil GitHub](https://github.com)
+
+---
+
+**Note** : Ce projet est en cours de développement actif. Des visuels et des mises à jour seront ajoutés au fur et à mesure.
