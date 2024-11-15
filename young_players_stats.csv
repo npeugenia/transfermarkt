@@ -1,0 +1,501 @@
+name,age,position,club,market_value,profile_url,matches,goals,assists,yellow_cards,second_yellows,red_cards,minutes_played,goals_conceded,clean_sheets,competition_stats
+Jude Bellingham,Jude Bellingham,Jude BellinghamAttacking Midfield,Unknown club,€180.00m,https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678,Attacking Midfield,21,,,€180.00m,15,2,0,4,{}
+Lamine Yamal,Lamine Yamal,Lamine YamalRight Winger,Unknown club,€150.00m,https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958,Right Winger,17,,,€150.00m,19,6,0,9,{}
+Florian Wirtz,Florian Wirtz,Florian WirtzAttacking Midfield,Unknown club,€130.00m,https://www.transfermarkt.com/florian-wirtz/profil/spieler/598577,Attacking Midfield,21,,,€130.00m,21,8,0,4,{}
+Jamal Musiala,Jamal Musiala,Jamal MusialaAttacking Midfield,Unknown club,€130.00m,https://www.transfermarkt.com/jamal-musiala/profil/spieler/580195,Attacking Midfield,21,,,€130.00m,16,10,0,7,{}
+Gavi,Gavi,GaviCentral Midfield,Unknown club,€90.00m,https://www.transfermarkt.com/gavi/profil/spieler/646740,Central Midfield,20,,,€90.00m,6,0,0,0,{}
+Pedri,Pedri,PedriCentral Midfield,Unknown club,€80.00m,https://www.transfermarkt.com/pedri/profil/spieler/683840,Central Midfield,21,,,€80.00m,21,3,0,2,{}
+Xavi Simons,Xavi Simons,Xavi SimonsAttacking Midfield,Unknown club,€80.00m,https://www.transfermarkt.com/xavi-simons/profil/spieler/566931,Attacking Midfield,21,,,€80.00m,15,4,0,2,{}
+Rasmus Højlund,Rasmus Højlund,Rasmus HøjlundCentre-Forward,Unknown club,€65.00m,https://www.transfermarkt.com/rasmus-hojlund/profil/spieler/610442,Centre-Forward,21,,,€65.00m,14,2,0,0,{}
+Endrick,Endrick,EndrickCentre-Forward,Unknown club,€60.00m,https://www.transfermarkt.com/endrick/profil/spieler/971570,Centre-Forward,18,,,€60.00m,10,2,0,1,{}
+Warren Zaïre-Emery,Warren Zaïre-Emery,Warren Zaïre-EmeryCentral Midfield,Unknown club,€60.00m,https://www.transfermarkt.com/warren-zaire-emery/profil/spieler/810092,Central Midfield,18,,,€60.00m,16,2,0,1,{}
+João Neves,João Neves,João NevesDefensive Midfield,Unknown club,€60.00m,https://www.transfermarkt.com/joao-neves/profil/spieler/670681,Defensive Midfield,20,,,€60.00m,17,1,0,6,{}
+Leny Yoro,Leny Yoro,Leny YoroCentre-Back,Unknown club,€55.00m,https://www.transfermarkt.com/leny-yoro/profil/spieler/923831,Centre-Back,19,,,€55.00m,0,0,0,0,{}
+Kobbie Mainoo,Kobbie Mainoo,Kobbie MainooCentral Midfield,Unknown club,€55.00m,https://www.transfermarkt.com/kobbie-mainoo/profil/spieler/820374,Central Midfield,19,,,€55.00m,10,0,0,0,{}
+Alejandro Garnacho,Alejandro Garnacho,Alejandro GarnachoLeft Winger,Unknown club,€50.00m,https://www.transfermarkt.com/alejandro-garnacho/profil/spieler/811779,Left Winger,20,,,€50.00m,18,7,0,4,{}
+Aleksandar Pavlovic,Aleksandar Pavlovic,Aleksandar PavlovicDefensive Midfield,Unknown club,€50.00m,https://www.transfermarkt.com/aleksandar-pavlovic/profil/spieler/792380,Defensive Midfield,20,,,€50.00m,12,2,0,1,{}
+Savinho,Savinho,SavinhoRight Winger,Unknown club,€50.00m,https://www.transfermarkt.com/savinho/profil/spieler/743591,Right Winger,20,,,€50.00m,15,0,0,5,{}
+Fermín López,Fermín López,Fermín LópezCentral Midfield,Unknown club,€50.00m,https://www.transfermarkt.com/fermin-lopez/profil/spieler/636703,Central Midfield,21,,,€50.00m,9,1,0,2,{}
+Benjamin Sesko,Benjamin Sesko,Benjamin SeskoCentre-Forward,Unknown club,€50.00m,https://www.transfermarkt.com/benjamin-sesko/profil/spieler/627442,Centre-Forward,21,,,€50.00m,19,11,0,3,{}
+Levi Colwill,Levi Colwill,Levi ColwillCentre-Back,Unknown club,€50.00m,https://www.transfermarkt.com/levi-colwill/profil/spieler/614258,Centre-Back,21,,,€50.00m,14,0,0,0,{}
+Arda Güler,Arda Güler,Arda GülerRight Winger,Unknown club,€45.00m,https://www.transfermarkt.com/arda-guler/profil/spieler/861410,Right Winger,19,,,€45.00m,16,1,0,1,{}
+Evan Ferguson,Evan Ferguson,Evan FergusonCentre-Forward,Unknown club,€45.00m,https://www.transfermarkt.com/evan-ferguson/profil/spieler/648046,Centre-Forward,20,,,€45.00m,12,1,0,0,{}
+Giorgio Scalvini,Giorgio Scalvini,Giorgio ScalviniCentre-Back,Unknown club,€45.00m,https://www.transfermarkt.com/giorgio-scalvini/profil/spieler/571604,Centre-Back,20,,,€45.00m,0,0,0,0,{}
+Johan Bakayoko,Johan Bakayoko,Johan BakayokoRight Winger,Unknown club,€45.00m,https://www.transfermarkt.com/johan-bakayoko/profil/spieler/565424,Right Winger,21,,,€45.00m,18,5,0,2,{}
+Destiny Udogie,Destiny Udogie,Destiny UdogieLeft-Back,Unknown club,€45.00m,https://www.transfermarkt.com/destiny-udogie/profil/spieler/556385,Left-Back,21,,,€45.00m,19,0,0,3,{}
+Estêvão,Estêvão,EstêvãoRight Winger,Unknown club,€40.00m,https://www.transfermarkt.com/estevao/profil/spieler/1056993,Right Winger,17,,,€40.00m,0,0,0,0,{}
+Ousmane Diomande,Ousmane Diomande,Ousmane DiomandeCentre-Back,Unknown club,€40.00m,https://www.transfermarkt.com/ousmane-diomande/profil/spieler/974982,Centre-Back,20,,,€40.00m,14,0,0,0,{}
+Pau Cubarsí,Pau Cubarsí,Pau CubarsíCentre-Back,Unknown club,€40.00m,https://www.transfermarkt.com/pau-cubarsi/profil/spieler/962110,Centre-Back,17,,,€40.00m,18,0,0,1,{}
+Désiré Doué,Désiré Doué,Désiré DouéLeft Winger,Unknown club,€40.00m,https://www.transfermarkt.com/desire-doue/profil/spieler/914562,Left Winger,19,,,€40.00m,12,0,0,1,{}
+Kenan Yıldız,Kenan Yıldız,Kenan YıldızLeft Winger,Unknown club,€40.00m,https://www.transfermarkt.com/kenan-yildiz/profil/spieler/845654,Left Winger,19,,,€40.00m,20,4,0,5,{}
+Mathys Tel,Mathys Tel,Mathys TelLeft Winger,Unknown club,€40.00m,https://www.transfermarkt.com/mathys-tel/profil/spieler/801734,Left Winger,19,,,€40.00m,7,0,0,0,{}
+Rico Lewis,Rico Lewis,Rico LewisRight-Back,Unknown club,€40.00m,https://www.transfermarkt.com/rico-lewis/profil/spieler/701057,Right-Back,19,,,€40.00m,20,0,0,4,{}
+António Silva,António Silva,António SilvaCentre-Back,Unknown club,€40.00m,https://www.transfermarkt.com/antonio-silva/profil/spieler/650568,Centre-Back,21,,,€40.00m,13,1,0,1,{}
+Alejandro Balde,Alejandro Balde,Alejandro BaldeLeft-Back,Unknown club,€40.00m,https://www.transfermarkt.com/alejandro-balde/profil/spieler/636688,Left-Back,21,,,€40.00m,15,0,0,3,{}
+Castello Lukeba,Castello Lukeba,Castello LukebaCentre-Back,Unknown club,€40.00m,https://www.transfermarkt.com/castello-lukeba/profil/spieler/618472,Centre-Back,21,,,€40.00m,12,0,0,0,{}
+Samu Aghehowa,Samu Aghehowa,Samu AghehowaCentre-Forward,Unknown club,€35.00m,https://www.transfermarkt.com/samu-aghehowa/profil/spieler/991268,Centre-Forward,20,,,€35.00m,13,12,0,0,{}
+Jamie Gittens,Jamie Gittens,Jamie GittensLeft Winger,Unknown club,€35.00m,https://www.transfermarkt.com/jamie-gittens/profil/spieler/670882,Left Winger,20,,,€35.00m,17,5,0,3,{}
+Jhon Durán,Jhon Durán,Jhon DuránCentre-Forward,Unknown club,€35.00m,https://www.transfermarkt.com/jhon-duran/profil/spieler/649317,Centre-Forward,20,,,€35.00m,17,8,0,0,{}
+Roméo Lavia,Roméo Lavia,Roméo LaviaDefensive Midfield,Unknown club,€35.00m,https://www.transfermarkt.com/romeo-lavia/profil/spieler/628451,Defensive Midfield,20,,,€35.00m,7,0,0,1,{}
+Malo Gusto,Malo Gusto,Malo GustoRight-Back,Unknown club,€35.00m,https://www.transfermarkt.com/malo-gusto/profil/spieler/620322,Right-Back,21,,,€35.00m,11,0,0,1,{}
+Harvey Elliott,Harvey Elliott,Harvey ElliottCentral Midfield,Unknown club,€35.00m,https://www.transfermarkt.com/harvey-elliott/profil/spieler/565822,Central Midfield,21,,,€35.00m,1,0,0,0,{}
+Vitor Roque,Vitor Roque,Vitor RoqueCentre-Forward,Unknown club,€30.00m,https://www.transfermarkt.com/vitor-roque/profil/spieler/943837,Centre-Forward,19,,,€30.00m,15,5,0,0,{}
+Jorrel Hato,Jorrel Hato,Jorrel HatoLeft-Back,Unknown club,€30.00m,https://www.transfermarkt.com/jorrel-hato/profil/spieler/904802,Left-Back,18,,,€30.00m,22,3,0,4,{}
+Lucas Beraldo,Lucas Beraldo,Lucas BeraldoCentre-Back,Unknown club,€30.00m,https://www.transfermarkt.com/lucas-beraldo/profil/spieler/872171,Centre-Back,20,,,€30.00m,9,0,0,0,{}
+Pablo Barrios,Pablo Barrios,Pablo BarriosCentral Midfield,Unknown club,€30.00m,https://www.transfermarkt.com/pablo-barrios/profil/spieler/775605,Central Midfield,21,,,€30.00m,9,0,0,1,{}
+Adam Wharton,Adam Wharton,Adam WhartonDefensive Midfield,Unknown club,€30.00m,https://www.transfermarkt.com/adam-wharton/profil/spieler/744149,Defensive Midfield,20,,,€30.00m,10,0,0,1,{}
+Elye Wahi,Elye Wahi,Elye WahiCentre-Forward,Unknown club,€30.00m,https://www.transfermarkt.com/elye-wahi/profil/spieler/659542,Centre-Forward,21,,,€30.00m,9,2,0,1,{}
+Bilal El Khannouss,Bilal El Khannouss,Bilal El KhannoussAttacking Midfield,Unknown club,€30.00m,https://www.transfermarkt.com/bilal-el-khannouss/profil/spieler/654982,Attacking Midfield,20,,,€30.00m,10,1,0,1,{}
+Cristhian Mosquera,Cristhian Mosquera,Cristhian MosqueraCentre-Back,Unknown club,€30.00m,https://www.transfermarkt.com/cristhian-mosquera/profil/spieler/646750,Centre-Back,20,,,€30.00m,11,0,0,0,{}
+Yankuba Minteh,Yankuba Minteh,Yankuba MintehRight Winger,Unknown club,€28.00m,https://www.transfermarkt.com/yankuba-minteh/profil/spieler/1012534,Right Winger,20,,,€28.00m,8,1,0,1,{}
+Hugo Larsson,Hugo Larsson,Hugo LarssonCentral Midfield,Unknown club,€28.00m,https://www.transfermarkt.com/hugo-larsson/profil/spieler/931838,Central Midfield,20,,,€28.00m,18,3,0,1,{}
+Oscar Gloukh,Oscar Gloukh,Oscar GloukhAttacking Midfield,Unknown club,€25.00m,https://www.transfermarkt.com/oscar-gloukh/profil/spieler/930571,Attacking Midfield,20,,,€25.00m,22,5,0,6,{}
+Arthur Vermeeren,Arthur Vermeeren,Arthur VermeerenDefensive Midfield,Unknown club,€25.00m,https://www.transfermarkt.com/arthur-vermeeren/profil/spieler/926694,Defensive Midfield,19,,,€25.00m,13,0,0,0,{}
+Archie Gray,Archie Gray,Archie GrayRight-Back,Unknown club,€25.00m,https://www.transfermarkt.com/archie-gray/profil/spieler/922693,Right-Back,18,,,€25.00m,12,0,0,0,{}
+Karim Konaté,Karim Konaté,Karim KonatéCentre-Forward,Unknown club,€25.00m,https://www.transfermarkt.com/karim-konate/profil/spieler/847278,Centre-Forward,20,,,€25.00m,15,8,0,2,{}
+Lesley Ugochukwu,Lesley Ugochukwu,Lesley UgochukwuDefensive Midfield,Unknown club,€25.00m,https://www.transfermarkt.com/lesley-ugochukwu/profil/spieler/711999,Defensive Midfield,20,,,€25.00m,8,0,0,0,{}
+Brajan Gruda,Brajan Gruda,Brajan GrudaRight Winger,Unknown club,€25.00m,https://www.transfermarkt.com/brajan-gruda/profil/spieler/700106,Right Winger,20,,,€25.00m,5,0,0,0,{}
+Matías Soulé,Matías Soulé,Matías SouléRight Winger,Unknown club,€25.00m,https://www.transfermarkt.com/matias-soule/profil/spieler/668951,Right Winger,21,,,€25.00m,12,1,0,0,{}
+Marcos Leonardo,Marcos Leonardo,Marcos LeonardoCentre-Forward,Unknown club,€25.00m,https://www.transfermarkt.com/marcos-leonardo/profil/spieler/668267,Centre-Forward,21,,,€25.00m,15,6,0,0,{}
+Oscar Bobb,Oscar Bobb,Oscar BobbRight Winger,Unknown club,€25.00m,https://www.transfermarkt.com/oscar-bobb/profil/spieler/661207,Right Winger,21,,,€25.00m,1,0,0,1,{}
+Luis Guilherme,Luis Guilherme,Luis GuilhermeRight Winger,Unknown club,€24.00m,https://www.transfermarkt.com/luis-guilherme/profil/spieler/991800,Right Winger,18,,,€24.00m,3,0,0,0,{}
+Carlos Baleba,Carlos Baleba,Carlos BalebaDefensive Midfield,Unknown club,€22.00m,https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085,Defensive Midfield,20,,,€22.00m,11,2,0,2,{}
+Lewis Miley,Lewis Miley,Lewis MileyCentral Midfield,Unknown club,€22.00m,https://www.transfermarkt.com/lewis-miley/profil/spieler/922769,Central Midfield,18,,,€22.00m,1,0,0,0,{}
+Antonio Nusa,Antonio Nusa,Antonio NusaLeft Winger,Unknown club,€22.00m,https://www.transfermarkt.com/antonio-nusa/profil/spieler/894914,Left Winger,19,,,€22.00m,24,3,0,3,{}
+Michael Kayode,Michael Kayode,Michael KayodeRight-Back,Unknown club,€22.00m,https://www.transfermarkt.com/michael-kayode/profil/spieler/823486,Right-Back,20,,,€22.00m,8,0,0,0,{}
+Lewis Hall,Lewis Hall,Lewis HallLeft-Back,Unknown club,€22.00m,https://www.transfermarkt.com/lewis-hall/profil/spieler/670858,Left-Back,20,,,€22.00m,15,0,0,3,{}
+Julio Enciso,Julio Enciso,Julio EncisoAttacking Midfield,Unknown club,€22.00m,https://www.transfermarkt.com/julio-enciso/profil/spieler/660867,Attacking Midfield,20,,,€22.00m,10,0,0,1,{}
+Jarell Quansah,Jarell Quansah,Jarell QuansahCentre-Back,Unknown club,€22.00m,https://www.transfermarkt.com/jarell-quansah/profil/spieler/632349,Centre-Back,21,,,€22.00m,5,0,1,0,{}
+Zeno Debast,Zeno Debast,Zeno DebastCentre-Back,Unknown club,€22.00m,https://www.transfermarkt.com/zeno-debast/profil/spieler/548193,Centre-Back,21,,,€22.00m,21,1,0,2,{}
+Yunus Musah,Yunus Musah,Yunus MusahCentral Midfield,Unknown club,€22.00m,https://www.transfermarkt.com/yunus-musah/profil/spieler/503991,Central Midfield,21,,,€22.00m,15,1,0,1,{}
+Francisco Conceição,Francisco Conceição,Francisco ConceiçãoRight Winger,Unknown club,€22.00m,https://www.transfermarkt.com/francisco-conceicao/profil/spieler/487474,Right Winger,21,,,€22.00m,11,2,0,5,{}
+Jeanuël Belocian,Jeanuël Belocian,Jeanuël BelocianCentre-Back,Unknown club,€20.00m,https://www.transfermarkt.com/jeanuel-belocian/profil/spieler/919515,Centre-Back,19,,,€20.00m,6,0,0,0,{}
+Habib Diarra,Habib Diarra,Habib DiarraAttacking Midfield,Unknown club,€20.00m,https://www.transfermarkt.com/habib-diarra/profil/spieler/876631,Attacking Midfield,20,,,€20.00m,11,2,0,1,{}
+Jack Hinshelwood,Jack Hinshelwood,Jack HinshelwoodRight-Back,Unknown club,€20.00m,https://www.transfermarkt.com/jack-hinshelwood/profil/spieler/867688,Right-Back,19,,,€20.00m,13,1,0,0,{}
+Alex Scott,Alex Scott,Alex ScottCentral Midfield,Unknown club,€20.00m,https://www.transfermarkt.com/alex-scott/profil/spieler/855256,Central Midfield,21,,,€20.00m,10,0,0,0,{}
+Javi Guerra,Javi Guerra,Javi GuerraCentral Midfield,Unknown club,€20.00m,https://www.transfermarkt.com/javi-guerra/profil/spieler/834764,Central Midfield,21,,,€20.00m,10,0,0,0,{}
+Alberto Moleiro,Alberto Moleiro,Alberto MoleiroAttacking Midfield,Unknown club,€20.00m,https://www.transfermarkt.com/alberto-moleiro/profil/spieler/733576,Attacking Midfield,21,,,€20.00m,13,4,0,0,{}
+Milos Kerkez,Milos Kerkez,Milos KerkezLeft-Back,Unknown club,€20.00m,https://www.transfermarkt.com/milos-kerkez/profil/spieler/730861,Left-Back,21,,,€20.00m,13,0,0,2,{}
+Orri Óskarsson,Orri Óskarsson,Orri ÓskarssonCentre-Forward,Unknown club,€20.00m,https://www.transfermarkt.com/orri-oskarsson/profil/spieler/660438,Centre-Forward,20,,,€20.00m,28,12,0,1,{}
+Rayan Cherki,Rayan Cherki,Rayan CherkiAttacking Midfield,Unknown club,€20.00m,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223,Attacking Midfield,21,,,€20.00m,11,2,0,3,{}
+Martin Baturina,Martin Baturina,Martin BaturinaAttacking Midfield,Unknown club,€20.00m,https://www.transfermarkt.com/martin-baturina/profil/spieler/580451,Attacking Midfield,21,,,€20.00m,20,3,0,8,{}
+Youssoufa Moukoko,Youssoufa Moukoko,Youssoufa MoukokoCentre-Forward,Unknown club,€20.00m,https://www.transfermarkt.com/youssoufa-moukoko/profil/spieler/467720,Centre-Forward,19,,,€20.00m,10,2,0,2,{}
+Claudio Echeverri,Claudio Echeverri,Claudio EcheverriAttacking Midfield,Unknown club,€18.00m,https://www.transfermarkt.com/claudio-echeverri/profil/spieler/994536,Attacking Midfield,18,,,€18.00m,1,0,0,0,{}
+Facundo Buonanotte,Facundo Buonanotte,Facundo BuonanotteAttacking Midfield,Unknown club,€18.00m,https://www.transfermarkt.com/facundo-buonanotte/profil/spieler/983989,Attacking Midfield,19,,,€18.00m,12,3,0,2,{}
+Ernest Nuamah,Ernest Nuamah,Ernest NuamahRight Winger,Unknown club,€18.00m,https://www.transfermarkt.com/ernest-nuamah/profil/spieler/955070,Right Winger,21,,,€18.00m,9,0,0,0,{}
+Guillaume Restes,Guillaume Restes,Guillaume RestesGoalkeeper,Unknown club,€18.00m,https://www.transfermarkt.com/guillaume-restes/profil/spieler/912902,Goalkeeper,19,,,€18.00m,11,0,0,0,{}
+Yáser Asprilla,Yáser Asprilla,Yáser AsprillaRight Winger,Unknown club,€18.00m,https://www.transfermarkt.com/yaser-asprilla/profil/spieler/857818,Right Winger,20,,,€18.00m,8,1,0,0,{}
+Farès Chaïbi,Farès Chaïbi,Farès ChaïbiAttacking Midfield,Unknown club,€18.00m,https://www.transfermarkt.com/fares-chaibi/profil/spieler/855015,Attacking Midfield,21,,,€18.00m,12,1,0,0,{}
+Santiago Castro,Santiago Castro,Santiago CastroCentre-Forward,Unknown club,€18.00m,https://www.transfermarkt.com/santiago-castro/profil/spieler/849520,Centre-Forward,20,,,€18.00m,15,4,0,2,{}
+Eliesse Ben Seghir,Eliesse Ben Seghir,Eliesse Ben SeghirLeft Winger,Unknown club,€18.00m,https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895,Left Winger,19,,,€18.00m,15,4,0,2,{}
+Andrey Santos,Andrey Santos,Andrey SantosCentral Midfield,Unknown club,€18.00m,https://www.transfermarkt.com/andrey-santos/profil/spieler/743600,Central Midfield,20,,,€18.00m,10,5,0,1,{}
+Wilson Odobert,Wilson Odobert,Wilson OdobertRight Winger,Unknown club,€18.00m,https://www.transfermarkt.com/wilson-odobert/profil/spieler/743498,Right Winger,19,,,€18.00m,6,1,0,0,{}
+Omari Hutchinson,Omari Hutchinson,Omari HutchinsonRight Winger,Unknown club,€18.00m,https://www.transfermarkt.com/omari-hutchinson/profil/spieler/741238,Right Winger,21,,,€18.00m,11,0,0,1,{}
+Arsen Zakharyan,Arsen Zakharyan,Arsen ZakharyanAttacking Midfield,Unknown club,€18.00m,https://www.transfermarkt.com/arsen-zakharyan/profil/spieler/555143,Attacking Midfield,21,,,€18.00m,0,0,0,0,{}
+Giannis Konstantelias,Giannis Konstantelias,Giannis KonstanteliasAttacking Midfield,Unknown club,€17.00m,https://www.transfermarkt.com/giannis-konstantelias/profil/spieler/628331,Attacking Midfield,21,,,€17.00m,22,2,0,0,{}
+Conrad Harder,Conrad Harder,Conrad HarderCentre-Forward,Unknown club,€16.00m,https://www.transfermarkt.com/conrad-harder/profil/spieler/807386,Centre-Forward,19,,,€16.00m,18,7,0,4,{}
+Wilfried Gnonto,Wilfried Gnonto,Wilfried GnontoRight Winger,Unknown club,€16.00m,https://www.transfermarkt.com/wilfried-gnonto/profil/spieler/627626,Right Winger,21,,,€16.00m,16,2,0,5,{}
+Geovany Quenda,Geovany Quenda,Geovany QuendaRight Winger,Unknown club,€15.00m,https://www.transfermarkt.com/geovany-quenda/profil/spieler/1138758,Right Winger,17,,,€15.00m,18,2,0,2,{}
+Gabriel Moscardo,Gabriel Moscardo,Gabriel MoscardoDefensive Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/gabriel-moscardo/profil/spieler/1086636,Defensive Midfield,19,,,€15.00m,0,0,0,0,{}
+George Ilenikhena,George Ilenikhena,George IlenikhenaCentre-Forward,Unknown club,€15.00m,https://www.transfermarkt.com/george-ilenikhena/profil/spieler/1004834,Centre-Forward,18,,,€15.00m,14,2,0,1,{}
+Nico Paz,Nico Paz,Nico PazAttacking Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/nico-paz/profil/spieler/948294,Attacking Midfield,20,,,€15.00m,11,1,0,4,{}
+Lamine Camara,Lamine Camara,Lamine CamaraCentral Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/lamine-camara/profil/spieler/918969,Central Midfield,20,,,€15.00m,14,2,0,1,{}
+Paul Wanner,Paul Wanner,Paul WannerAttacking Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/paul-wanner/profil/spieler/900909,Attacking Midfield,18,,,€15.00m,15,5,0,2,{}
+Yarek Gasiorowski,Yarek Gasiorowski,Yarek GasiorowskiCentre-Back,Unknown club,€15.00m,https://www.transfermarkt.com/yarek-gasiorowski/profil/spieler/895334,Centre-Back,19,,,€15.00m,4,0,0,0,{}
+Semih Kılıçsoy,Semih Kılıçsoy,Semih KılıçsoyLeft Winger,Unknown club,€15.00m,https://www.transfermarkt.com/semih-kilicsoy/profil/spieler/875334,Left Winger,19,,,€15.00m,16,1,0,4,{}
+Ange-Yoan Bonny,Ange-Yoan Bonny,Ange-Yoan BonnyCentre-Forward,Unknown club,€15.00m,https://www.transfermarkt.com/ange-yoan-bonny/profil/spieler/827734,Centre-Forward,21,,,€15.00m,13,4,0,1,{}
+Callum Doyle,Callum Doyle,Callum DoyleCentre-Back,Unknown club,€15.00m,https://www.transfermarkt.com/callum-doyle/profil/spieler/817688,Centre-Back,21,,,€15.00m,17,1,0,5,{}
+Valentín Carboni,Valentín Carboni,Valentín CarboniAttacking Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/valentin-carboni/profil/spieler/787618,Attacking Midfield,19,,,€15.00m,4,0,0,0,{}
+Carlos Alcaraz,Carlos Alcaraz,Carlos AlcarazCentral Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/carlos-alcaraz/profil/spieler/748319,Central Midfield,21,,,€15.00m,1,0,0,0,{}
+Ângelo,Ângelo,ÂngeloRight Winger,Unknown club,€15.00m,https://www.transfermarkt.com/angelo/profil/spieler/743598,Right Winger,19,,,€15.00m,10,1,0,1,{}
+Matheus França,Matheus França,Matheus FrançaAttacking Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/matheus-franca/profil/spieler/743597,Attacking Midfield,20,,,€15.00m,0,0,0,0,{}
+Malick Fofana,Malick Fofana,Malick FofanaLeft Winger,Unknown club,€15.00m,https://www.transfermarkt.com/malick-fofana/profil/spieler/743386,Left Winger,19,,,€15.00m,16,5,0,2,{}
+Ilias Akhomach,Ilias Akhomach,Ilias AkhomachRight Winger,Unknown club,€15.00m,https://www.transfermarkt.com/ilias-akhomach/profil/spieler/709969,Right Winger,20,,,€15.00m,12,1,0,0,{}
+Chadi Riad,Chadi Riad,Chadi RiadCentre-Back,Unknown club,€15.00m,https://www.transfermarkt.com/chadi-riad/profil/spieler/689637,Centre-Back,21,,,€15.00m,2,0,0,0,{}
+Juanlu Sánchez,Juanlu Sánchez,Juanlu SánchezRight-Back,Unknown club,€15.00m,https://www.transfermarkt.com/juanlu-sanchez/profil/spieler/676042,Right-Back,21,,,€15.00m,10,1,0,2,{}
+Rodrigo Gomes,Rodrigo Gomes,Rodrigo GomesRight Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/rodrigo-gomes/profil/spieler/667121,Right Midfield,21,,,€15.00m,6,0,0,0,{}
+Carney Chukwuemeka,Carney Chukwuemeka,Carney ChukwuemekaCentral Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459,Central Midfield,21,,,€15.00m,3,0,0,0,{}
+Martin Vitík,Martin Vitík,Martin VitíkCentre-Back,Unknown club,€15.00m,https://www.transfermarkt.com/martin-vitik/profil/spieler/652054,Centre-Back,21,,,€15.00m,22,3,0,0,{}
+Tommaso Baldanzi,Tommaso Baldanzi,Tommaso BaldanziAttacking Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/tommaso-baldanzi/profil/spieler/641537,Attacking Midfield,21,,,€15.00m,16,1,0,2,{}
+Marc Casadó,Marc Casadó,Marc CasadóDefensive Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/marc-casado/profil/spieler/636695,Defensive Midfield,21,,,€15.00m,15,0,0,5,{}
+Conor Bradley,Conor Bradley,Conor BradleyRight-Back,Unknown club,€15.00m,https://www.transfermarkt.com/conor-bradley/profil/spieler/624258,Right-Back,21,,,€15.00m,14,0,0,0,{}
+Liam Delap,Liam Delap,Liam DelapCentre-Forward,Unknown club,€15.00m,https://www.transfermarkt.com/liam-delap/profil/spieler/610849,Centre-Forward,21,,,€15.00m,13,6,0,1,{}
+Fabio Miretti,Fabio Miretti,Fabio MirettiCentral Midfield,Unknown club,€15.00m,https://www.transfermarkt.com/fabio-miretti/profil/spieler/571607,Central Midfield,21,,,€15.00m,7,0,0,0,{}
+Victor Kristiansen,Victor Kristiansen,Victor KristiansenLeft-Back,Unknown club,€15.00m,https://www.transfermarkt.com/victor-kristiansen/profil/spieler/564529,Left-Back,21,,,€15.00m,13,0,1,1,{}
+Emanuel Emegha,Emanuel Emegha,Emanuel EmeghaCentre-Forward,Unknown club,€15.00m,https://www.transfermarkt.com/emanuel-emegha/profil/spieler/559328,Centre-Forward,21,,,€15.00m,8,3,0,1,{}
+Giovanni Fabbian,Giovanni Fabbian,Giovanni FabbianAttacking Midfield,Unknown club,€14.00m,https://www.transfermarkt.com/giovanni-fabbian/profil/spieler/633668,Attacking Midfield,21,,,€14.00m,14,1,0,0,{}
+Franco Mastantuono,Franco Mastantuono,Franco MastantuonoAttacking Midfield,Unknown club,€13.00m,https://www.transfermarkt.com/franco-mastantuono/profil/spieler/1057316,Attacking Midfield,17,,,€13.00m,1,1,0,0,{}
+Issahaku Fatawu,Issahaku Fatawu,Issahaku FatawuRight Winger,Unknown club,€13.00m,https://www.transfermarkt.com/issahaku-fatawu/profil/spieler/864121,Right Winger,20,,,€13.00m,13,0,0,2,{}
+Aaron Ramsey,Aaron Ramsey,Aaron RamseyAttacking Midfield,Unknown club,€13.00m,https://www.transfermarkt.com/aaron-ramsey/profil/spieler/646658,Attacking Midfield,21,,,€13.00m,0,0,0,0,{}
+Maurits Kjaergaard,Maurits Kjaergaard,Maurits KjaergaardCentral Midfield,Unknown club,€13.00m,https://www.transfermarkt.com/maurits-kjaergaard/profil/spieler/610405,Central Midfield,21,,,€13.00m,12,5,0,3,{}
+Samuel Iling-Junior,Samuel Iling-Junior,Samuel Iling-JuniorLeft Winger,Unknown club,€13.00m,https://www.transfermarkt.com/samuel-iling-junior/profil/spieler/581672,Left Winger,21,,,€13.00m,8,1,0,0,{}
+Ibrahim Osman,Ibrahim Osman,Ibrahim OsmanLeft Winger,Unknown club,€12.00m,https://www.transfermarkt.com/ibrahim-osman/profil/spieler/1110406,Left Winger,19,,,€12.00m,11,2,0,2,{}
+Assane Diao,Assane Diao,Assane DiaoRight Winger,Unknown club,€12.00m,https://www.transfermarkt.com/assane-diao/profil/spieler/1061282,Right Winger,19,,,€12.00m,12,1,0,3,{}
+Kendry Páez,Kendry Páez,Kendry PáezAttacking Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/kendry-paez/profil/spieler/1052439,Attacking Midfield,17,,,€12.00m,0,0,0,0,{}
+Lorran,Lorran,LorranAttacking Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/lorran/profil/spieler/1009030,Attacking Midfield,18,,,€12.00m,0,0,0,0,{}
+Christian Mawissa,Christian Mawissa,Christian MawissaCentre-Back,Unknown club,€12.00m,https://www.transfermarkt.com/christian-mawissa/profil/spieler/1005240,Centre-Back,19,,,€12.00m,9,0,0,0,{}
+Abakar Sylla,Abakar Sylla,Abakar SyllaCentre-Back,Unknown club,€12.00m,https://www.transfermarkt.com/abakar-sylla/profil/spieler/962555,Centre-Back,21,,,€12.00m,10,1,0,0,{}
+Patrick Dorgu,Patrick Dorgu,Patrick DorguRight Winger,Unknown club,€12.00m,https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952,Right Winger,20,,,€12.00m,16,3,0,0,{}
+Kevin,Kevin,KevinLeft Winger,Unknown club,€12.00m,https://www.transfermarkt.com/kevin/profil/spieler/900195,Left Winger,21,,,€12.00m,12,1,0,2,{}
+Ethan Nwaneri,Ethan Nwaneri,Ethan NwaneriAttacking Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/ethan-nwaneri/profil/spieler/890719,Attacking Midfield,17,,,€12.00m,15,8,0,1,{}
+Dean Huijsen,Dean Huijsen,Dean HuijsenCentre-Back,Unknown club,€12.00m,https://www.transfermarkt.com/dean-huijsen/profil/spieler/890290,Centre-Back,19,,,€12.00m,6,0,0,0,{}
+Mateus Fernandes,Mateus Fernandes,Mateus FernandesCentral Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/mateus-fernandes/profil/spieler/880245,Central Midfield,20,,,€12.00m,15,1,0,3,{}
+Lucas Bergvall,Lucas Bergvall,Lucas BergvallCentral Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/lucas-bergvall/profil/spieler/866246,Central Midfield,18,,,€12.00m,12,0,0,2,{}
+Can Uzun,Can Uzun,Can UzunAttacking Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/can-uzun/profil/spieler/816585,Attacking Midfield,19,,,€12.00m,9,1,0,0,{}
+Jobe Bellingham,Jobe Bellingham,Jobe BellinghamAttacking Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297,Attacking Midfield,19,,,€12.00m,14,2,0,1,{}
+El Chadaille Bitshiabu,El Chadaille Bitshiabu,El Chadaille BitshiabuCentre-Back,Unknown club,€12.00m,https://www.transfermarkt.com/el-chadaille-bitshiabu/profil/spieler/787912,Centre-Back,19,,,€12.00m,11,0,0,0,{}
+Luca Koleosho,Luca Koleosho,Luca KoleoshoRight Winger,Unknown club,€12.00m,https://www.transfermarkt.com/luca-koleosho/profil/spieler/745461,Right Winger,20,,,€12.00m,14,2,0,0,{}
+Antoni Milambo,Antoni Milambo,Antoni MilamboCentral Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/antoni-milambo/profil/spieler/683620,Central Midfield,19,,,€12.00m,13,6,0,0,{}
+Mohamed-Ali Cho,Mohamed-Ali Cho,Mohamed-Ali ChoRight Winger,Unknown club,€12.00m,https://www.transfermarkt.com/mohamed-ali-cho/profil/spieler/670847,Right Winger,20,,,€12.00m,12,3,0,0,{}
+Konstantinos Koulierakis,Konstantinos Koulierakis,Konstantinos KoulierakisCentre-Back,Unknown club,€12.00m,https://www.transfermarkt.com/konstantinos-koulierakis/profil/spieler/669380,Centre-Back,20,,,€12.00m,17,3,0,3,{}
+Marlon Gomes,Marlon Gomes,Marlon GomesCentral Midfield,Unknown club,€12.00m,https://www.transfermarkt.com/marlon-gomes/profil/spieler/668235,Central Midfield,20,,,€12.00m,13,0,0,3,{}
+Ricardo Pepi,Ricardo Pepi,Ricardo PepiCentre-Forward,Unknown club,€12.00m,https://www.transfermarkt.com/ricardo-pepi/profil/spieler/627207,Centre-Forward,21,,,€12.00m,19,8,0,1,{}
+Ryan Flamingo,Ryan Flamingo,Ryan FlamingoCentre-Back,Unknown club,€12.00m,https://www.transfermarkt.com/ryan-flamingo/profil/spieler/586429,Centre-Back,21,,,€12.00m,17,1,0,1,{}
+Sverre Nypan,Sverre Nypan,Sverre NypanCentral Midfield,Unknown club,€11.00m,https://www.transfermarkt.com/sverre-nypan/profil/spieler/911736,Central Midfield,17,,,€11.00m,0,0,0,0,{}
+Stefan Bajcetic,Stefan Bajcetic,Stefan BajceticDefensive Midfield,Unknown club,€11.00m,https://www.transfermarkt.com/stefan-bajcetic/profil/spieler/864799,Defensive Midfield,20,,,€11.00m,11,0,0,0,{}
+Arne Engels,Arne Engels,Arne EngelsCentral Midfield,Unknown club,€11.00m,https://www.transfermarkt.com/arne-engels/profil/spieler/565435,Central Midfield,21,,,€11.00m,18,3,0,6,{}
+Ayyoub Bouaddi,Ayyoub Bouaddi,Ayyoub BouaddiCentral Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/ayyoub-bouaddi/profil/spieler/1097139,Central Midfield,17,,,€10.00m,16,0,0,1,{}
+Gustavo Nunes,Gustavo Nunes,Gustavo NunesLeft Winger,Unknown club,€10.00m,https://www.transfermarkt.com/gustavo-nunes/profil/spieler/1086375,Left Winger,18,,,€10.00m,0,0,0,0,{}
+Francesco Camarda,Francesco Camarda,Francesco CamardaCentre-Forward,Unknown club,€10.00m,https://www.transfermarkt.com/francesco-camarda/profil/spieler/1058368,Centre-Forward,16,,,€10.00m,16,4,0,1,{}
+Wesley,Wesley,WesleyLeft Winger,Unknown club,€10.00m,https://www.transfermarkt.com/wesley/profil/spieler/1007378,Left Winger,19,,,€10.00m,9,1,0,1,{}
+Vitor Reis,Vitor Reis,Vitor ReisCentre-Back,Unknown club,€10.00m,https://www.transfermarkt.com/vitor-reis/profil/spieler/1005575,Centre-Back,18,,,€10.00m,0,0,0,0,{}
+Gianluca Prestianni,Gianluca Prestianni,Gianluca PrestianniRight Winger,Unknown club,€10.00m,https://www.transfermarkt.com/gianluca-prestianni/profil/spieler/1000674,Right Winger,18,,,€10.00m,7,0,0,0,{}
+Diego Gómez,Diego Gómez,Diego GómezCentral Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/diego-gomez/profil/spieler/996897,Central Midfield,21,,,€10.00m,0,0,0,0,{}
+Rodrigo Mora,Rodrigo Mora,Rodrigo MoraAttacking Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/rodrigo-mora/profil/spieler/957653,Attacking Midfield,17,,,€10.00m,11,2,0,0,{}
+Eli Junior Kroupi,Eli Junior Kroupi,Eli Junior KroupiCentre-Forward,Unknown club,€10.00m,https://www.transfermarkt.com/eli-junior-kroupi/profil/spieler/955357,Centre-Forward,18,,,€10.00m,11,7,0,1,{}
+Héctor Fort,Héctor Fort,Héctor FortRight-Back,Unknown club,€10.00m,https://www.transfermarkt.com/hector-fort/profil/spieler/937955,Right-Back,18,,,€10.00m,11,0,0,0,{}
+Nathan Zézé,Nathan Zézé,Nathan ZézéCentre-Back,Unknown club,€10.00m,https://www.transfermarkt.com/nathan-zeze/profil/spieler/923832,Centre-Back,19,,,€10.00m,7,0,0,0,{}
+Roger,Roger,RogerRight Winger,Unknown club,€10.00m,https://www.transfermarkt.com/roger/profil/spieler/906329,Right Winger,18,,,€10.00m,23,2,0,2,{}
+Assan Ouédraogo,Assan Ouédraogo,Assan OuédraogoCentral Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/assan-ouedraogo/profil/spieler/897424,Central Midfield,18,,,€10.00m,4,0,0,0,{}
+Simone Pafundi,Simone Pafundi,Simone PafundiAttacking Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/simone-pafundi/profil/spieler/876400,Attacking Midfield,18,,,€10.00m,5,0,0,1,{}
+Matteo Prati,Matteo Prati,Matteo PratiDefensive Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/matteo-prati/profil/spieler/876298,Defensive Midfield,20,,,€10.00m,6,1,0,0,{}
+Valentín Barco,Valentín Barco,Valentín BarcoLeft-Back,Unknown club,€10.00m,https://www.transfermarkt.com/valentin-barco/profil/spieler/849410,Left-Back,20,,,€10.00m,7,0,0,0,{}
+Arnau Martínez,Arnau Martínez,Arnau MartínezRight-Back,Unknown club,€10.00m,https://www.transfermarkt.com/arnau-martinez/profil/spieler/826224,Right-Back,21,,,€10.00m,15,2,0,2,{}
+David Datro Fofana,David Datro Fofana,David Datro FofanaCentre-Forward,Unknown club,€10.00m,https://www.transfermarkt.com/david-datro-fofana/profil/spieler/787232,Centre-Forward,21,,,€10.00m,6,1,0,0,{}
+Ismaël Doukouré,Ismaël Doukouré,Ismaël DoukouréDefensive Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/ismael-doukoure/profil/spieler/786436,Defensive Midfield,21,,,€10.00m,10,0,0,1,{}
+Shea Charles,Shea Charles,Shea CharlesDefensive Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/shea-charles/profil/spieler/747951,Defensive Midfield,21,,,€10.00m,16,1,0,1,{}
+Ben Doak,Ben Doak,Ben DoakRight Winger,Unknown club,€10.00m,https://www.transfermarkt.com/ben-doak/profil/spieler/719673,Right Winger,19,,,€10.00m,14,1,0,3,{}
+Yegor Yarmolyuk,Yegor Yarmolyuk,Yegor YarmolyukAttacking Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/yegor-yarmolyuk/profil/spieler/717411,Attacking Midfield,20,,,€10.00m,9,0,0,0,{}
+Tim Iroegbunam,Tim Iroegbunam,Tim IroegbunamCentral Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/tim-iroegbunam/profil/spieler/696589,Central Midfield,21,,,€10.00m,8,0,0,1,{}
+Jonathan Rowe,Jonathan Rowe,Jonathan RoweLeft Winger,Unknown club,€10.00m,https://www.transfermarkt.com/jonathan-rowe/profil/spieler/672381,Left Winger,21,,,€10.00m,11,2,0,2,{}
+Andreas Schjelderup,Andreas Schjelderup,Andreas SchjelderupLeft Winger,Unknown club,€10.00m,https://www.transfermarkt.com/andreas-schjelderup/profil/spieler/670103,Left Winger,20,,,€10.00m,6,1,0,0,{}
+Mikayil Faye,Mikayil Faye,Mikayil FayeCentre-Back,Unknown club,€10.00m,https://www.transfermarkt.com/mikayil-faye/profil/spieler/666974,Centre-Back,20,,,€10.00m,5,0,0,0,{}
+Cesare Casadei,Cesare Casadei,Cesare CasadeiCentral Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/cesare-casadei/profil/spieler/622380,Central Midfield,21,,,€10.00m,4,0,0,0,{}
+Mario Stroeykens,Mario Stroeykens,Mario StroeykensAttacking Midfield,Unknown club,€10.00m,https://www.transfermarkt.com/mario-stroeykens/profil/spieler/588866,Attacking Midfield,20,,,€10.00m,20,4,0,6,{}
+Devyne Rensch,Devyne Rensch,Devyne RenschRight-Back,Unknown club,€10.00m,https://www.transfermarkt.com/devyne-rensch/profil/spieler/557407,Right-Back,21,,,€10.00m,17,1,0,1,{}
+Joe Scally,Joe Scally,Joe ScallyRight-Back,Unknown club,€10.00m,https://www.transfermarkt.com/joe-scally/profil/spieler/504153,Right-Back,21,,,€10.00m,15,0,0,0,{}
+Aurèle Amenda,Aurèle Amenda,Aurèle AmendaCentre-Back,Unknown club,€9.50m,https://www.transfermarkt.com/aurele-amenda/profil/spieler/635645,Centre-Back,21,,,€9.50m,8,0,0,0,{}
+Deivid Washington,Deivid Washington,Deivid WashingtonCentre-Forward,Unknown club,€9.00m,https://www.transfermarkt.com/deivid-washington/profil/spieler/1082850,Centre-Forward,19,,,€9.00m,6,2,0,1,{}
+Pedro,Pedro,PedroLeft Winger,Unknown club,€9.00m,https://www.transfermarkt.com/pedro/profil/spieler/1004741,Left Winger,18,,,€9.00m,22,3,0,3,{}
+Valentín Gómez,Valentín Gómez,Valentín GómezCentre-Back,Unknown club,€9.00m,https://www.transfermarkt.com/valentin-gomez/profil/spieler/985383,Centre-Back,21,,,€9.00m,0,0,0,0,{}
+Robert Renan,Robert Renan,Robert RenanCentre-Back,Unknown club,€9.00m,https://www.transfermarkt.com/robert-renan/profil/spieler/958598,Centre-Back,21,,,€9.00m,10,0,0,0,{}
+Chris Rigg,Chris Rigg,Chris RiggCentral Midfield,Unknown club,€9.00m,https://www.transfermarkt.com/chris-rigg/profil/spieler/947411,Central Midfield,17,,,€9.00m,20,3,0,0,{}
+Iván Fresneda,Iván Fresneda,Iván FresnedaRight-Back,Unknown club,€9.00m,https://www.transfermarkt.com/ivan-fresneda/profil/spieler/946883,Right-Back,20,,,€9.00m,6,0,0,0,{}
+Joel Ordóñez,Joel Ordóñez,Joel OrdóñezCentre-Back,Unknown club,€9.00m,https://www.transfermarkt.com/joel-ordonez/profil/spieler/893661,Centre-Back,20,,,€9.00m,14,0,1,0,{}
+Alejo Veliz,Alejo Veliz,Alejo VelizCentre-Forward,Unknown club,€9.00m,https://www.transfermarkt.com/alejo-veliz/profil/spieler/888493,Centre-Forward,21,,,€9.00m,12,4,0,0,{}
+Roony Bardghji,Roony Bardghji,Roony BardghjiRight Winger,Unknown club,€9.00m,https://www.transfermarkt.com/roony-bardghji/profil/spieler/792331,Right Winger,18,,,€9.00m,0,0,0,0,{}
+Andy Diouf,Andy Diouf,Andy DioufCentral Midfield,Unknown club,€9.00m,https://www.transfermarkt.com/andy-diouf/profil/spieler/711976,Central Midfield,21,,,€9.00m,13,1,0,1,{}
+Chermiti,Chermiti,ChermitiCentre-Forward,Unknown club,€9.00m,https://www.transfermarkt.com/chermiti/profil/spieler/670688,Centre-Forward,20,,,€9.00m,0,0,0,0,{}
+Máximo Perrone,Máximo Perrone,Máximo PerroneDefensive Midfield,Unknown club,€9.00m,https://www.transfermarkt.com/maximo-perrone/profil/spieler/668547,Defensive Midfield,21,,,€9.00m,8,0,0,1,{}
+Matthis Abline,Matthis Abline,Matthis AblineCentre-Forward,Unknown club,€9.00m,https://www.transfermarkt.com/matthis-abline/profil/spieler/659543,Centre-Forward,21,,,€9.00m,11,2,0,0,{}
+Hákon Arnar Haraldsson,Hákon Arnar Haraldsson,Hákon Arnar HaraldssonLeft Winger,Unknown club,€9.00m,https://www.transfermarkt.com/hakon-arnar-haraldsson/profil/spieler/652275,Left Winger,21,,,€9.00m,7,0,0,2,{}
+Lucas Gourna-Douath,Lucas Gourna-Douath,Lucas Gourna-DouathDefensive Midfield,Unknown club,€9.00m,https://www.transfermarkt.com/lucas-gourna-douath/profil/spieler/620313,Defensive Midfield,21,,,€9.00m,17,1,0,2,{}
+Hannibal,Hannibal,HannibalAttacking Midfield,Unknown club,€9.00m,https://www.transfermarkt.com/hannibal/profil/spieler/607224,Attacking Midfield,21,,,€9.00m,11,0,0,0,{}
+Alessandro Circati,Alessandro Circati,Alessandro CircatiCentre-Back,Unknown club,€8.50m,https://www.transfermarkt.com/alessandro-circati/profil/spieler/867137,Centre-Back,21,,,€8.50m,5,0,0,0,{}
+Julien Duranville,Julien Duranville,Julien DuranvilleLeft Winger,Unknown club,€8.50m,https://www.transfermarkt.com/julien-duranville/profil/spieler/819215,Left Winger,18,,,€8.50m,5,1,0,0,{}
+Christos Zafeiris,Christos Zafeiris,Christos ZafeirisCentral Midfield,Unknown club,€8.50m,https://www.transfermarkt.com/christos-zafeiris/profil/spieler/580978,Central Midfield,21,,,€8.50m,24,4,0,1,{}
+Aarón Anselmino,Aarón Anselmino,Aarón AnselminoCentre-Back,Unknown club,€8.00m,https://www.transfermarkt.com/aaron-anselmino/profil/spieler/1145504,Centre-Back,19,,,€8.00m,0,0,0,0,{}
+Kauã Elias,Kauã Elias,Kauã EliasCentre-Forward,Unknown club,€8.00m,https://www.transfermarkt.com/kaua-elias/profil/spieler/1119009,Centre-Forward,18,,,€8.00m,0,0,0,0,{}
+Nathan Fernandes,Nathan Fernandes,Nathan FernandesRight Winger,Unknown club,€8.00m,https://www.transfermarkt.com/nathan-fernandes/profil/spieler/1083600,Right Winger,19,,,€8.00m,0,0,0,0,{}
+Moussa Yeo,Moussa Yeo,Moussa YeoCentre-Forward,Unknown club,€8.00m,https://www.transfermarkt.com/moussa-yeo/profil/spieler/1041861,Centre-Forward,20,,,€8.00m,15,3,0,4,{}
+Alexsander,Alexsander,AlexsanderDefensive Midfield,Unknown club,€8.00m,https://www.transfermarkt.com/alexsander/profil/spieler/997714,Defensive Midfield,21,,,€8.00m,5,0,0,0,{}
+Gustavo Sá,Gustavo Sá,Gustavo SáAttacking Midfield,Unknown club,€8.00m,https://www.transfermarkt.com/gustavo-sa/profil/spieler/982575,Attacking Midfield,20,,,€8.00m,11,1,0,1,{}
+Kassoum Ouattara,Kassoum Ouattara,Kassoum OuattaraLeft-Back,Unknown club,€8.00m,https://www.transfermarkt.com/kassoum-ouattara/profil/spieler/947360,Left-Back,20,,,€8.00m,7,0,0,1,{}
+Federico Redondo,Federico Redondo,Federico RedondoDefensive Midfield,Unknown club,€8.00m,https://www.transfermarkt.com/federico-redondo/profil/spieler/909758,Defensive Midfield,21,,,€8.00m,0,0,0,0,{}
+Ibrahim Maza,Ibrahim Maza,Ibrahim MazaAttacking Midfield,Unknown club,€8.00m,https://www.transfermarkt.com/ibrahim-maza/profil/spieler/905011,Attacking Midfield,18,,,€8.00m,16,4,0,2,{}
+Luka Vuskovic,Luka Vuskovic,Luka VuskovicCentre-Back,Unknown club,€8.00m,https://www.transfermarkt.com/luka-vuskovic/profil/spieler/892160,Centre-Back,17,,,€8.00m,14,4,0,1,{}
+Rokas Pukstas,Rokas Pukstas,Rokas PukstasAttacking Midfield,Unknown club,€8.00m,https://www.transfermarkt.com/rokas-pukstas/profil/spieler/887816,Attacking Midfield,20,,,€8.00m,17,1,0,1,{}
+Luciano Rodríguez,Luciano Rodríguez,Luciano RodríguezCentre-Forward,Unknown club,€8.00m,https://www.transfermarkt.com/luciano-rodriguez/profil/spieler/856143,Centre-Forward,21,,,€8.00m,0,0,0,0,{}
+Agustín Giay,Agustín Giay,Agustín GiayRight-Back,Unknown club,€8.00m,https://www.transfermarkt.com/agustin-giay/profil/spieler/849582,Right-Back,20,,,€8.00m,0,0,0,0,{}
+Kosta Nedeljkovic,Kosta Nedeljkovic,Kosta NedeljkovicRight-Back,Unknown club,€8.00m,https://www.transfermarkt.com/kosta-nedeljkovic/profil/spieler/848682,Right-Back,18,,,€8.00m,10,0,0,0,{}
+Álvaro Carreras,Álvaro Carreras,Álvaro CarrerasLeft-Back,Unknown club,€8.00m,https://www.transfermarkt.com/alvaro-carreras/profil/spieler/811778,Left-Back,21,,,€8.00m,16,2,0,2,{}
+Renato Veiga,Renato Veiga,Renato VeigaCentre-Back,Unknown club,€8.00m,https://www.transfermarkt.com/renato-veiga/profil/spieler/805714,Centre-Back,21,,,€8.00m,13,1,0,1,{}
+Tom Rothe,Tom Rothe,Tom RotheLeft-Back,Unknown club,€8.00m,https://www.transfermarkt.com/tom-rothe/profil/spieler/798043,Left-Back,20,,,€8.00m,10,3,0,1,{}
+Giovani,Giovani,GiovaniRight Winger,Unknown club,€8.00m,https://www.transfermarkt.com/giovani/profil/spieler/749560,Right Winger,20,,,€8.00m,10,1,0,2,{}
+Mika Godts,Mika Godts,Mika GodtsLeft Winger,Unknown club,€8.00m,https://www.transfermarkt.com/mika-godts/profil/spieler/748804,Left Winger,19,,,€8.00m,20,6,0,5,{}
+Caleb Wiley,Caleb Wiley,Caleb WileyLeft-Back,Unknown club,€8.00m,https://www.transfermarkt.com/caleb-wiley/profil/spieler/746833,Left-Back,19,,,€8.00m,7,0,0,1,{}
+Soungoutou Magassa,Soungoutou Magassa,Soungoutou MagassaDefensive Midfield,Unknown club,€8.00m,https://www.transfermarkt.com/soungoutou-magassa/profil/spieler/745181,Defensive Midfield,21,,,€8.00m,10,0,0,0,{}
+Carlos Forbs,Carlos Forbs,Carlos ForbsLeft Winger,Unknown club,€8.00m,https://www.transfermarkt.com/carlos-forbs/profil/spieler/742451,Left Winger,20,,,€8.00m,12,0,0,0,{}
+Zeno Van Den Bosch,Zeno Van Den Bosch,Zeno Van Den BoschCentre-Back,Unknown club,€8.00m,https://www.transfermarkt.com/zeno-van-den-bosch/profil/spieler/738774,Centre-Back,21,,,€8.00m,15,1,1,0,{}
+Ruben van Bommel,Ruben van Bommel,Ruben van BommelLeft Winger,Unknown club,€8.00m,https://www.transfermarkt.com/ruben-van-bommel/profil/spieler/735701,Left Winger,20,,,€8.00m,13,6,0,3,{}
+Matej Jurasek,Matej Jurasek,Matej JurasekRight Winger,Unknown club,€8.00m,https://www.transfermarkt.com/matej-jurasek/profil/spieler/726714,Right Winger,21,,,€8.00m,18,2,0,5,{}
+Bobby Clark,Bobby Clark,Bobby ClarkCentral Midfield,Unknown club,€8.00m,https://www.transfermarkt.com/bobby-clark/profil/spieler/712117,Central Midfield,19,,,€8.00m,12,0,0,2,{}
+Samuel Edozie,Samuel Edozie,Samuel EdozieLeft Winger,Unknown club,€8.00m,https://www.transfermarkt.com/samuel-edozie/profil/spieler/680806,Left Winger,21,,,€8.00m,16,2,0,2,{}
+Dorgeles Nene,Dorgeles Nene,Dorgeles NeneLeft Winger,Unknown club,€8.00m,https://www.transfermarkt.com/dorgeles-nene/profil/spieler/671591,Left Winger,21,,,€8.00m,20,4,0,3,{}
+Ahmetcan Kaplan,Ahmetcan Kaplan,Ahmetcan KaplanCentre-Back,Unknown club,€8.00m,https://www.transfermarkt.com/ahmetcan-kaplan/profil/spieler/662131,Centre-Back,21,,,€8.00m,5,1,0,0,{}
+Samson Baidoo,Samson Baidoo,Samson BaidooCentre-Back,Unknown club,€8.00m,https://www.transfermarkt.com/samson-baidoo/profil/spieler/655217,Centre-Back,20,,,€8.00m,19,0,0,0,{}
+Samuel Mbangula,Samuel Mbangula,Samuel MbangulaLeft Winger,Unknown club,€8.00m,https://www.transfermarkt.com/samuel-mbangula/profil/spieler/654991,Left Winger,20,,,€8.00m,8,1,0,3,{}
+Elias Jelert,Elias Jelert,Elias JelertRight-Back,Unknown club,€8.00m,https://www.transfermarkt.com/elias-jelert/profil/spieler/646478,Right-Back,21,,,€8.00m,14,0,0,0,{}
+Loum Tchaouna,Loum Tchaouna,Loum TchaounaRight Winger,Unknown club,€8.00m,https://www.transfermarkt.com/loum-tchaouna/profil/spieler/607226,Right Winger,21,,,€8.00m,12,1,0,0,{}
+Igor Matanovic,Igor Matanovic,Igor MatanovicCentre-Forward,Unknown club,€8.00m,https://www.transfermarkt.com/igor-matanovic/profil/spieler/605268,Centre-Forward,21,,,€8.00m,18,3,0,1,{}
+Ante Crnac,Ante Crnac,Ante CrnacCentre-Forward,Unknown club,€8.00m,https://www.transfermarkt.com/ante-crnac/profil/spieler/580635,Centre-Forward,20,,,€8.00m,19,2,0,1,{}
+Luca Netz,Luca Netz,Luca NetzLeft-Back,Unknown club,€8.00m,https://www.transfermarkt.com/luca-netz/profil/spieler/524285,Left-Back,21,,,€8.00m,7,1,0,0,{}
+Sergey Pinyaev,Sergey Pinyaev,Sergey PinyaevLeft Winger,Unknown club,€8.00m,https://www.transfermarkt.com/sergey-pinyaev/profil/spieler/516751,Left Winger,20,,,€8.00m,21,6,0,5,{}
+Matte Smets,Matte Smets,Matte SmetsCentre-Back,Unknown club,€7.50m,https://www.transfermarkt.com/matte-smets/profil/spieler/1019174,Centre-Back,20,,,€7.50m,14,0,0,0,{}
+Jean-Mattéo Bahoya,Jean-Mattéo Bahoya,Jean-Mattéo BahoyaLeft Winger,Unknown club,€7.50m,https://www.transfermarkt.com/jean-matteo-bahoya/profil/spieler/939964,Left Winger,19,,,€7.50m,7,0,0,1,{}
+Marc Guiu,Marc Guiu,Marc GuiuCentre-Forward,Unknown club,€7.50m,https://www.transfermarkt.com/marc-guiu/profil/spieler/938158,Centre-Forward,18,,,€7.50m,11,2,0,1,{}
+Franculino,Franculino,FranculinoCentre-Forward,Unknown club,€7.50m,https://www.transfermarkt.com/franculino/profil/spieler/929090,Centre-Forward,20,,,€7.50m,23,10,0,5,{}
+Niccolò Pisilli,Niccolò Pisilli,Niccolò PisilliCentral Midfield,Unknown club,€7.50m,https://www.transfermarkt.com/niccolo-pisilli/profil/spieler/813137,Central Midfield,20,,,€7.50m,14,1,0,0,{}
+Ismaël Gharbi,Ismaël Gharbi,Ismaël GharbiLeft Winger,Unknown club,€7.50m,https://www.transfermarkt.com/ismael-gharbi/profil/spieler/810096,Left Winger,20,,,€7.50m,11,2,0,1,{}
+Mathias Delorge,Mathias Delorge,Mathias DelorgeCentral Midfield,Unknown club,€7.50m,https://www.transfermarkt.com/mathias-delorge/profil/spieler/723487,Central Midfield,20,,,€7.50m,24,2,0,3,{}
+Kevin Paredes,Kevin Paredes,Kevin ParedesLeft Midfield,Unknown club,€7.50m,https://www.transfermarkt.com/kevin-paredes/profil/spieler/711517,Left Midfield,21,,,€7.50m,0,0,0,0,{}
+Diego Coppola,Diego Coppola,Diego CoppolaCentre-Back,Unknown club,€7.50m,https://www.transfermarkt.com/diego-coppola/profil/spieler/660860,Centre-Back,20,,,€7.50m,12,0,0,0,{}
+El Hadji Malick Diouf,El Hadji Malick Diouf,El Hadji Malick DioufLeft Midfield,Unknown club,€7.00m,https://www.transfermarkt.com/el-hadji-malick-diouf/profil/spieler/1111589,Left Midfield,19,,,€7.00m,21,5,0,3,{}
+Rayan,Rayan,RayanRight Winger,Unknown club,€7.00m,https://www.transfermarkt.com/rayan/profil/spieler/1012564,Right Winger,18,,,€7.00m,1,0,0,0,{}
+Junior Mwanga,Junior Mwanga,Junior MwangaDefensive Midfield,Unknown club,€7.00m,https://www.transfermarkt.com/junior-mwanga/profil/spieler/1011200,Defensive Midfield,21,,,€7.00m,7,0,0,0,{}
+Konstantinos Karetsas,Konstantinos Karetsas,Konstantinos KaretsasAttacking Midfield,Unknown club,€7.00m,https://www.transfermarkt.com/konstantinos-karetsas/profil/spieler/990148,Attacking Midfield,16,,,€7.00m,11,0,0,2,{}
+Darío Osorio,Darío Osorio,Darío OsorioRight Winger,Unknown club,€7.00m,https://www.transfermarkt.com/dario-osorio/profil/spieler/881116,Right Winger,20,,,€7.00m,22,3,0,1,{}
+Noah Sadiki,Noah Sadiki,Noah SadikiCentral Midfield,Unknown club,€7.00m,https://www.transfermarkt.com/noah-sadiki/profil/spieler/727089,Central Midfield,19,,,€7.00m,22,1,0,3,{}
+Isaak Touré,Isaak Touré,Isaak TouréCentre-Back,Unknown club,€7.00m,https://www.transfermarkt.com/isaak-toure/profil/spieler/708678,Centre-Back,21,,,€7.00m,8,0,1,0,{}
+Nicolò Savona,Nicolò Savona,Nicolò SavonaRight-Back,Unknown club,€7.00m,https://www.transfermarkt.com/nicolo-savona/profil/spieler/708072,Right-Back,21,,,€7.00m,14,2,0,0,{}
+Kacper Urbanski,Kacper Urbanski,Kacper UrbanskiCentral Midfield,Unknown club,€7.00m,https://www.transfermarkt.com/kacper-urbanski/profil/spieler/699442,Central Midfield,20,,,€7.00m,12,1,0,1,{}
+Brian Aguirre,Brian Aguirre,Brian AguirreLeft Winger,Unknown club,€7.00m,https://www.transfermarkt.com/brian-aguirre/profil/spieler/668549,Left Winger,21,,,€7.00m,0,0,0,0,{}
+Marquinhos,Marquinhos,MarquinhosRight Winger,Unknown club,€7.00m,https://www.transfermarkt.com/marquinhos/profil/spieler/668268,Right Winger,21,,,€7.00m,0,0,0,0,{}
+Kayky,Kayky,KaykyRight Winger,Unknown club,€7.00m,https://www.transfermarkt.com/kayky/profil/spieler/668265,Right Winger,21,,,€7.00m,4,0,0,0,{}
+Matheus Martins,Matheus Martins,Matheus MartinsLeft Winger,Unknown club,€7.00m,https://www.transfermarkt.com/matheus-martins/profil/spieler/668228,Left Winger,21,,,€7.00m,0,0,0,0,{}
+Matías Arezo,Matías Arezo,Matías ArezoCentre-Forward,Unknown club,€7.00m,https://www.transfermarkt.com/matias-arezo/profil/spieler/611426,Centre-Forward,21,,,€7.00m,0,0,0,0,{}
+William Osula,William Osula,William OsulaCentre-Forward,Unknown club,€7.00m,https://www.transfermarkt.com/william-osula/profil/spieler/609556,Centre-Forward,21,,,€7.00m,6,0,0,0,{}
+Umut Tohumcu,Umut Tohumcu,Umut TohumcuCentral Midfield,Unknown club,€7.00m,https://www.transfermarkt.com/umut-tohumcu/profil/spieler/569031,Central Midfield,20,,,€7.00m,13,2,0,2,{}
+Mika Biereth,Mika Biereth,Mika BierethCentre-Forward,Unknown club,€7.00m,https://www.transfermarkt.com/mika-biereth/profil/spieler/565821,Centre-Forward,21,,,€7.00m,20,9,0,2,{}
+Damián Pizarro,Damián Pizarro,Damián PizarroCentre-Forward,Unknown club,€6.50m,https://www.transfermarkt.com/damian-pizarro/profil/spieler/950593,Centre-Forward,19,,,€6.50m,2,0,0,1,{}
+Bazoumana Touré,Bazoumana Touré,Bazoumana TouréLeft Winger,Unknown club,€6.00m,https://www.transfermarkt.com/bazoumana-toure/profil/spieler/1067904,Left Winger,18,,,€6.00m,0,0,0,0,{}
+Tomás Avilés,Tomás Avilés,Tomás AvilésCentre-Back,Unknown club,€6.00m,https://www.transfermarkt.com/tomas-aviles/profil/spieler/1064191,Centre-Back,20,,,€6.00m,0,0,0,0,{}
+Elián Irala,Elián Irala,Elián IralaDefensive Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/elian-irala/profil/spieler/1037802,Defensive Midfield,20,,,€6.00m,0,0,0,0,{}
+Mathis Amougou,Mathis Amougou,Mathis AmougouCentral Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/mathis-amougou/profil/spieler/1010854,Central Midfield,18,,,€6.00m,13,1,0,0,{}
+Julio Soler,Julio Soler,Julio SolerLeft-Back,Unknown club,€6.00m,https://www.transfermarkt.com/julio-soler/profil/spieler/1009658,Left-Back,19,,,€6.00m,0,0,0,0,{}
+Sondre Ørjasæter,Sondre Ørjasæter,Sondre ØrjasæterLeft Winger,Unknown club,€6.00m,https://www.transfermarkt.com/sondre-orjasaeter/profil/spieler/1002305,Left Winger,20,,,€6.00m,0,0,0,0,{}
+Tomás Palacios,Tomás Palacios,Tomás PalaciosCentre-Back,Unknown club,€6.00m,https://www.transfermarkt.com/tomas-palacios/profil/spieler/993645,Centre-Back,21,,,€6.00m,1,0,0,0,{}
+Ibrahim Sulemana,Ibrahim Sulemana,Ibrahim SulemanaDefensive Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/ibrahim-sulemana/profil/spieler/982267,Defensive Midfield,21,,,€6.00m,3,0,0,0,{}
+Wesley,Wesley,WesleyRight-Back,Unknown club,€6.00m,https://www.transfermarkt.com/wesley/profil/spieler/964580,Right-Back,21,,,€6.00m,0,0,0,0,{}
+Martim Fernandes,Martim Fernandes,Martim FernandesRight-Back,Unknown club,€6.00m,https://www.transfermarkt.com/martim-fernandes/profil/spieler/935480,Right-Back,18,,,€6.00m,14,0,0,4,{}
+Alan Minda,Alan Minda,Alan MindaRight Winger,Unknown club,€6.00m,https://www.transfermarkt.com/alan-minda/profil/spieler/897051,Right Winger,21,,,€6.00m,18,2,0,4,{}
+Oumar Diakité,Oumar Diakité,Oumar DiakitéCentre-Forward,Unknown club,€6.00m,https://www.transfermarkt.com/oumar-diakite/profil/spieler/847279,Centre-Forward,20,,,€6.00m,10,3,0,1,{}
+Unai Gómez,Unai Gómez,Unai GómezAttacking Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/unai-gomez/profil/spieler/834752,Attacking Midfield,21,,,€6.00m,16,0,0,2,{}
+Miguel Monsalve,Miguel Monsalve,Miguel MonsalveAttacking Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/miguel-monsalve/profil/spieler/828045,Attacking Midfield,20,,,€6.00m,0,0,0,0,{}
+Isaac Babadi,Isaac Babadi,Isaac BabadiAttacking Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/isaac-babadi/profil/spieler/813437,Attacking Midfield,19,,,€6.00m,11,0,0,0,{}
+Max Finkgräfe,Max Finkgräfe,Max FinkgräfeLeft-Back,Unknown club,€6.00m,https://www.transfermarkt.com/max-finkgrafe/profil/spieler/810649,Left-Back,20,,,€6.00m,2,0,0,0,{}
+Abbosbek Fayzullaev,Abbosbek Fayzullaev,Abbosbek FayzullaevAttacking Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/abbosbek-fayzullaev/profil/spieler/754037,Attacking Midfield,21,,,€6.00m,19,2,0,6,{}
+Matheus Nascimento,Matheus Nascimento,Matheus NascimentoCentre-Forward,Unknown club,€6.00m,https://www.transfermarkt.com/matheus-nascimento/profil/spieler/743594,Centre-Forward,20,,,€6.00m,0,0,0,0,{}
+Fabricio Díaz,Fabricio Díaz,Fabricio DíazDefensive Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/fabricio-diaz/profil/spieler/741567,Defensive Midfield,21,,,€6.00m,14,1,0,0,{}
+Matias Fernandez-Pardo,Matias Fernandez-Pardo,Matias Fernandez-PardoCentre-Forward,Unknown club,€6.00m,https://www.transfermarkt.com/matias-fernandez-pardo/profil/spieler/724129,Centre-Forward,19,,,€6.00m,17,3,0,1,{}
+Fidel Ambríz,Fidel Ambríz,Fidel AmbrízDefensive Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/fidel-ambriz/profil/spieler/723240,Defensive Midfield,21,,,€6.00m,16,0,0,0,{}
+Jacopo Fazzini,Jacopo Fazzini,Jacopo FazziniCentral Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/jacopo-fazzini/profil/spieler/691482,Central Midfield,21,,,€6.00m,8,2,0,0,{}
+Jovan Mijatović,Jovan Mijatović,Jovan MijatovićCentre-Forward,Unknown club,€6.00m,https://www.transfermarkt.com/jovan-mijatovic/profil/spieler/673432,Centre-Forward,19,,,€6.00m,0,0,0,0,{}
+Rodrigo Huescas,Rodrigo Huescas,Rodrigo HuescasRight-Back,Unknown club,€6.00m,https://www.transfermarkt.com/rodrigo-huescas/profil/spieler/668529,Right-Back,21,,,€6.00m,13,0,0,1,{}
+Warren Bondo,Warren Bondo,Warren BondoCentral Midfield,Unknown club,€6.00m,https://www.transfermarkt.com/warren-bondo/profil/spieler/659516,Central Midfield,21,,,€6.00m,13,0,0,0,{}
+Soumaïla Coulibaly,Soumaïla Coulibaly,Soumaïla CoulibalyCentre-Back,Unknown club,€6.00m,https://www.transfermarkt.com/soumaila-coulibaly/profil/spieler/659513,Centre-Back,21,,,€6.00m,9,0,0,1,{}
+Lucas Stassin,Lucas Stassin,Lucas StassinCentre-Forward,Unknown club,€6.00m,https://www.transfermarkt.com/lucas-stassin/profil/spieler/655012,Centre-Forward,19,,,€6.00m,13,2,0,7,{}
+Bjorn Meijer,Bjorn Meijer,Bjorn MeijerLeft-Back,Unknown club,€6.00m,https://www.transfermarkt.com/bjorn-meijer/profil/spieler/594227,Left-Back,21,,,€6.00m,4,1,0,4,{}
+Bright Arrey-Mbi,Bright Arrey-Mbi,Bright Arrey-MbiCentre-Back,Unknown club,€6.00m,https://www.transfermarkt.com/bright-arrey-mbi/profil/spieler/580193,Centre-Back,21,,,€6.00m,13,0,1,0,{}
+Benja Domínguez,Benja Domínguez,Benja DomínguezLeft Winger,Unknown club,€5.50m,https://www.transfermarkt.com/benja-dominguez/profil/spieler/961022,Left Winger,21,,,€5.50m,1,0,0,0,{}
+Pedro Lima,Pedro Lima,Pedro LimaRight-Back,Unknown club,€5.00m,https://www.transfermarkt.com/pedro-lima/profil/spieler/1193867,Right-Back,18,,,€5.00m,3,0,0,1,{}
+Malick Yalcouyé,Malick Yalcouyé,Malick YalcouyéRight Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/malick-yalcouye/profil/spieler/1178758,Right Midfield,18,,,€5.00m,14,1,0,2,{}
+Thiago Fernández,Thiago Fernández,Thiago FernándezLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/thiago-fernandez/profil/spieler/1127730,Left Winger,20,,,€5.00m,0,0,0,0,{}
+Christantus Uche,Christantus Uche,Christantus UcheAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/christantus-uche/profil/spieler/1124005,Attacking Midfield,21,,,€5.00m,13,1,0,0,{}
+Joane Gadou,Joane Gadou,Joane GadouCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/joane-gadou/profil/spieler/1075577,Centre-Back,17,,,€5.00m,9,0,0,0,{}
+Christian Ordóñez,Christian Ordóñez,Christian OrdóñezCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/christian-ordonez/profil/spieler/1043646,Central Midfield,20,,,€5.00m,0,0,0,0,{}
+Breno Bidon,Breno Bidon,Breno BidonCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/breno-bidon/profil/spieler/1029227,Central Midfield,19,,,€5.00m,1,0,0,0,{}
+Marc Bernal,Marc Bernal,Marc BernalDefensive Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/marc-bernal/profil/spieler/1018920,Defensive Midfield,17,,,€5.00m,3,0,0,0,{}
+William Gomes,William Gomes,William GomesLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/william-gomes/profil/spieler/1004725,Left Winger,18,,,€5.00m,0,0,0,0,{}
+Reda Belahyane,Reda Belahyane,Reda BelahyaneDefensive Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/reda-belahyane/profil/spieler/982855,Defensive Midfield,20,,,€5.00m,11,0,0,2,{}
+Arthur,Arthur,ArthurRight-Back,Unknown club,€5.00m,https://www.transfermarkt.com/arthur/profil/spieler/977464,Right-Back,21,,,€5.00m,3,0,0,0,{}
+Romeo Amane,Romeo Amane,Romeo AmaneCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/romeo-amane/profil/spieler/961937,Central Midfield,21,,,€5.00m,5,2,0,1,{}
+Kodai Sano,Kodai Sano,Kodai SanoLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/kodai-sano/profil/spieler/957544,Left Winger,21,,,€5.00m,11,1,0,0,{}
+Saël Kumbedi,Saël Kumbedi,Saël KumbediRight-Back,Unknown club,€5.00m,https://www.transfermarkt.com/sael-kumbedi/profil/spieler/951579,Right-Back,19,,,€5.00m,9,0,0,1,{}
+Anan Khalaili,Anan Khalaili,Anan KhalailiRight Winger,Unknown club,€5.00m,https://www.transfermarkt.com/anan-khalaili/profil/spieler/945021,Right Winger,20,,,€5.00m,18,0,0,0,{}
+Francesco Pio Esposito,Francesco Pio Esposito,Francesco Pio EspositoCentre-Forward,Unknown club,€5.00m,https://www.transfermarkt.com/francesco-pio-esposito/profil/spieler/930781,Centre-Forward,19,,,€5.00m,12,6,0,0,{}
+Finn Jeltsch,Finn Jeltsch,Finn JeltschCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/finn-jeltsch/profil/spieler/924117,Centre-Back,18,,,€5.00m,15,0,0,0,{}
+Valentin Atangana,Valentin Atangana,Valentin AtanganaCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/valentin-atangana/profil/spieler/923759,Central Midfield,19,,,€5.00m,14,0,0,0,{}
+Joel Ndala,Joel Ndala,Joel NdalaLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/joel-ndala/profil/spieler/921829,Left Winger,18,,,€5.00m,11,1,0,2,{}
+Fredrik Sjøvold,Fredrik Sjøvold,Fredrik SjøvoldRight-Back,Unknown club,€5.00m,https://www.transfermarkt.com/fredrik-sjovold/profil/spieler/912959,Right-Back,21,,,€5.00m,10,0,0,0,{}
+Mamadou Sarr,Mamadou Sarr,Mamadou SarrCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/mamadou-sarr/profil/spieler/910905,Centre-Back,19,,,€5.00m,9,0,0,0,{}
+Agustín Ojeda,Agustín Ojeda,Agustín OjedaLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/agustin-ojeda/profil/spieler/907131,Left Winger,20,,,€5.00m,0,0,0,0,{}
+Saba Goglichidze,Saba Goglichidze,Saba GoglichidzeCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/saba-goglichidze/profil/spieler/906160,Centre-Back,20,,,€5.00m,10,0,0,0,{}
+Senny Mayulu,Senny Mayulu,Senny MayuluCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/senny-mayulu/profil/spieler/903693,Central Midfield,18,,,€5.00m,14,4,0,0,{}
+Myles Lewis-Skelly,Myles Lewis-Skelly,Myles Lewis-SkellyDefensive Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/myles-lewis-skelly/profil/spieler/890721,Defensive Midfield,18,,,€5.00m,12,0,0,1,{}
+Adam Daghim,Adam Daghim,Adam DaghimRight Winger,Unknown club,€5.00m,https://www.transfermarkt.com/adam-daghim/profil/spieler/881297,Right Winger,19,,,€5.00m,22,3,0,0,{}
+Diego Luna,Diego Luna,Diego LunaLeft Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/diego-luna/profil/spieler/880626,Left Midfield,21,,,€5.00m,0,0,0,0,{}
+Tyler Dibling,Tyler Dibling,Tyler DiblingRight Winger,Unknown club,€5.00m,https://www.transfermarkt.com/tyler-dibling/profil/spieler/866655,Right Winger,18,,,€5.00m,16,2,0,2,{}
+Bénie Traoré,Bénie Traoré,Bénie TraoréCentre-Forward,Unknown club,€5.00m,https://www.transfermarkt.com/benie-traore/profil/spieler/852024,Centre-Forward,21,,,€5.00m,14,6,0,5,{}
+Jusef Erabi,Jusef Erabi,Jusef ErabiCentre-Forward,Unknown club,€5.00m,https://www.transfermarkt.com/jusef-erabi/profil/spieler/851699,Centre-Forward,21,,,€5.00m,1,1,0,0,{}
+Petar Ratkov,Petar Ratkov,Petar RatkovCentre-Forward,Unknown club,€5.00m,https://www.transfermarkt.com/petar-ratkov/profil/spieler/846254,Centre-Forward,21,,,€5.00m,14,2,0,1,{}
+Milos Lukovic,Milos Lukovic,Milos LukovicCentre-Forward,Unknown club,€5.00m,https://www.transfermarkt.com/milos-lukovic/profil/spieler/845872,Centre-Forward,18,,,€5.00m,2,0,0,0,{}
+Mike Penders,Mike Penders,Mike PendersGoalkeeper,Unknown club,€5.00m,https://www.transfermarkt.com/mike-penders/profil/spieler/834397,Goalkeeper,19,,,€5.00m,9,0,0,0,{}
+Pascal Klemens,Pascal Klemens,Pascal KlemensDefensive Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/pascal-klemens/profil/spieler/820261,Defensive Midfield,19,,,€5.00m,18,1,0,1,{}
+Jan-Carlo Simić,Jan-Carlo Simić,Jan-Carlo SimićCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/jan-carlo-simic/profil/spieler/800948,Centre-Back,19,,,€5.00m,22,2,0,2,{}
+Nelson Weiper,Nelson Weiper,Nelson WeiperCentre-Forward,Unknown club,€5.00m,https://www.transfermarkt.com/nelson-weiper/profil/spieler/796213,Centre-Forward,19,,,€5.00m,12,4,0,1,{}
+Alfie Gilchrist,Alfie Gilchrist,Alfie GilchristCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/alfie-gilchrist/profil/spieler/790992,Centre-Back,20,,,€5.00m,16,0,0,1,{}
+Khalil Fayad,Khalil Fayad,Khalil FayadCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/khalil-fayad/profil/spieler/782630,Central Midfield,20,,,€5.00m,4,0,0,0,{}
+Willy Kambwala,Willy Kambwala,Willy KambwalaCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/willy-kambwala/profil/spieler/780630,Centre-Back,20,,,€5.00m,2,0,0,0,{}
+Luka Romero,Luka Romero,Luka RomeroRight Winger,Unknown club,€5.00m,https://www.transfermarkt.com/luka-romero/profil/spieler/769063,Right Winger,19,,,€5.00m,6,0,0,0,{}
+Williot Swedberg,Williot Swedberg,Williot SwedbergLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/williot-swedberg/profil/spieler/764859,Left Winger,20,,,€5.00m,12,2,0,3,{}
+Abdukodir Khusanov,Abdukodir Khusanov,Abdukodir KhusanovCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/abdukodir-khusanov/profil/spieler/763079,Centre-Back,20,,,€5.00m,12,0,0,0,{}
+Victor Hugo,Victor Hugo,Victor HugoAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/victor-hugo/profil/spieler/749559,Attacking Midfield,20,,,€5.00m,7,0,0,0,{}
+Antonin Kinsky,Antonin Kinsky,Antonin KinskyGoalkeeper,Unknown club,€5.00m,https://www.transfermarkt.com/antonin-kinsky/profil/spieler/725912,Goalkeeper,21,,,€5.00m,22,0,0,0,{}
+Andreas Ntoi,Andreas Ntoi,Andreas NtoiCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/andreas-ntoi/profil/spieler/724035,Centre-Back,21,,,€5.00m,9,0,0,0,{}
+Aleksey Batrakov,Aleksey Batrakov,Aleksey BatrakovAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/aleksey-batrakov/profil/spieler/720286,Attacking Midfield,19,,,€5.00m,19,11,0,8,{}
+Pablo Torre,Pablo Torre,Pablo TorreAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/pablo-torre/profil/spieler/720038,Attacking Midfield,21,,,€5.00m,6,3,0,1,{}
+Nicolò Tresoldi,Nicolò Tresoldi,Nicolò TresoldiCentre-Forward,Unknown club,€5.00m,https://www.transfermarkt.com/nicolo-tresoldi/profil/spieler/717329,Centre-Forward,20,,,€5.00m,13,2,0,2,{}
+Leo Sauer,Leo Sauer,Leo SauerLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/leo-sauer/profil/spieler/710886,Left Winger,18,,,€5.00m,11,1,0,0,{}
+Badredine Bouanani,Badredine Bouanani,Badredine BouananiRight Winger,Unknown club,€5.00m,https://www.transfermarkt.com/badredine-bouanani/profil/spieler/707242,Right Winger,19,,,€5.00m,13,0,0,0,{}
+Kristian Hlynsson,Kristian Hlynsson,Kristian HlynssonAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/kristian-hlynsson/profil/spieler/694186,Attacking Midfield,20,,,€5.00m,9,2,0,1,{}
+Mauro Perkovic,Mauro Perkovic,Mauro PerkovicCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/mauro-perkovic/profil/spieler/676266,Centre-Back,21,,,€5.00m,0,0,0,0,{}
+Kamory Doumbia,Kamory Doumbia,Kamory DoumbiaAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/kamory-doumbia/profil/spieler/671594,Attacking Midfield,21,,,€5.00m,12,0,0,0,{}
+James Beadle,James Beadle,James BeadleGoalkeeper,Unknown club,€5.00m,https://www.transfermarkt.com/james-beadle/profil/spieler/670860,Goalkeeper,20,,,€5.00m,16,0,0,0,{}
+Mathias Fjørtoft Løvik,Mathias Fjørtoft Løvik,Mathias Fjørtoft LøvikLeft-Back,Unknown club,€5.00m,https://www.transfermarkt.com/mathias-fjortoft-lovik/profil/spieler/661212,Left-Back,20,,,€5.00m,9,0,0,1,{}
+Félix Lemaréchal,Félix Lemaréchal,Félix LemaréchalAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/felix-lemarechal/profil/spieler/659518,Attacking Midfield,21,,,€5.00m,8,0,0,1,{}
+Amankwah Forson,Amankwah Forson,Amankwah ForsonCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/amankwah-forson/profil/spieler/650944,Central Midfield,21,,,€5.00m,16,0,1,2,{}
+Cade Cowell,Cade Cowell,Cade CowellLeft Winger,Unknown club,€5.00m,https://www.transfermarkt.com/cade-cowell/profil/spieler/647235,Left Winger,21,,,€5.00m,14,5,0,2,{}
+Wouter Goes,Wouter Goes,Wouter GoesCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/wouter-goes/profil/spieler/646707,Centre-Back,20,,,€5.00m,10,0,0,1,{}
+Leopold Querfeld,Leopold Querfeld,Leopold QuerfeldCentre-Back,Unknown club,€5.00m,https://www.transfermarkt.com/leopold-querfeld/profil/spieler/597432,Centre-Back,20,,,€5.00m,10,0,0,0,{}
+Pascal Loretz,Pascal Loretz,Pascal LoretzGoalkeeper,Unknown club,€5.00m,https://www.transfermarkt.com/pascal-loretz/profil/spieler/583038,Goalkeeper,21,,,€5.00m,16,0,0,0,{}
+Vasco Sousa,Vasco Sousa,Vasco SousaAttacking Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/vasco-sousa/profil/spieler/575716,Attacking Midfield,21,,,€5.00m,8,0,0,1,{}
+Youri Regeer,Youri Regeer,Youri RegeerCentral Midfield,Unknown club,€5.00m,https://www.transfermarkt.com/youri-regeer/profil/spieler/559324,Central Midfield,21,,,€5.00m,18,0,0,3,{}
+Bashir Humphreys,Bashir Humphreys,Bashir HumphreysCentre-Back,Unknown club,€4.80m,https://www.transfermarkt.com/bashir-humphreys/profil/spieler/612517,Centre-Back,21,,,€4.80m,10,0,0,0,{}
+Giovanni Leoni,Giovanni Leoni,Giovanni LeoniCentre-Back,Unknown club,€4.50m,https://www.transfermarkt.com/giovanni-leoni/profil/spieler/1086619,Centre-Back,17,,,€4.50m,4,0,0,0,{}
+Alisson,Alisson,AlissonRight Winger,Unknown club,€4.50m,https://www.transfermarkt.com/alisson/profil/spieler/1083070,Right Winger,19,,,€4.50m,0,0,0,0,{}
+Deniz Gül,Deniz Gül,Deniz GülCentre-Forward,Unknown club,€4.50m,https://www.transfermarkt.com/deniz-gul/profil/spieler/1063292,Centre-Forward,20,,,€4.50m,6,2,0,0,{}
+Yasin Özcan,Yasin Özcan,Yasin ÖzcanCentre-Back,Unknown club,€4.50m,https://www.transfermarkt.com/yasin-ozcan/profil/spieler/1043003,Centre-Back,18,,,€4.50m,12,0,0,0,{}
+Baltasar Rodríguez,Baltasar Rodríguez,Baltasar RodríguezAttacking Midfield,Unknown club,€4.50m,https://www.transfermarkt.com/baltasar-rodriguez/profil/spieler/1015246,Attacking Midfield,21,,,€4.50m,0,0,0,0,{}
+Tobías Ramírez,Tobías Ramírez,Tobías RamírezCentre-Back,Unknown club,€4.50m,https://www.transfermarkt.com/tobias-ramirez/profil/spieler/1000684,Centre-Back,18,,,€4.50m,4,0,0,0,{}
+Julián Fernández,Julián Fernández,Julián FernándezRight Winger,Unknown club,€4.50m,https://www.transfermarkt.com/julian-fernandez/profil/spieler/984053,Right Winger,20,,,€4.50m,0,0,0,0,{}
+Rafiu Durosinmi,Rafiu Durosinmi,Rafiu DurosinmiCentre-Forward,Unknown club,€4.50m,https://www.transfermarkt.com/rafiu-durosinmi/profil/spieler/935760,Centre-Forward,21,,,€4.50m,0,0,0,0,{}
+Krisztián Lisztes,Krisztián Lisztes,Krisztián LisztesAttacking Midfield,Unknown club,€4.50m,https://www.transfermarkt.com/krisztian-lisztes/profil/spieler/933217,Attacking Midfield,19,,,€4.50m,4,0,0,1,{}
+Antonio Raimondo,Antonio Raimondo,Antonio RaimondoCentre-Forward,Unknown club,€4.50m,https://www.transfermarkt.com/antonio-raimondo/profil/spieler/818888,Centre-Forward,20,,,€4.50m,8,0,0,0,{}
+Paxten Aaronson,Paxten Aaronson,Paxten AaronsonAttacking Midfield,Unknown club,€4.50m,https://www.transfermarkt.com/paxten-aaronson/profil/spieler/795738,Attacking Midfield,21,,,€4.50m,13,4,0,1,{}
+Viktor Djukanovic,Viktor Djukanovic,Viktor DjukanovicLeft Winger,Unknown club,€4.50m,https://www.transfermarkt.com/viktor-djukanovic/profil/spieler/760493,Left Winger,20,,,€4.50m,5,0,0,0,{}
+Cristian Volpato,Cristian Volpato,Cristian VolpatoAttacking Midfield,Unknown club,€4.50m,https://www.transfermarkt.com/cristian-volpato/profil/spieler/746891,Attacking Midfield,20,,,€4.50m,8,2,0,1,{}
+Kyriani Sabbe,Kyriani Sabbe,Kyriani SabbeRight-Back,Unknown club,€4.50m,https://www.transfermarkt.com/kyriani-sabbe/profil/spieler/743122,Right-Back,19,,,€4.50m,11,1,0,0,{}
+Brooke Norton-Cuffy,Brooke Norton-Cuffy,Brooke Norton-CuffyRight-Back,Unknown club,€4.50m,https://www.transfermarkt.com/brooke-norton-cuffy/profil/spieler/728733,Right-Back,20,,,€4.50m,3,0,0,0,{}
+Finn van Breemen,Finn van Breemen,Finn van BreemenCentre-Back,Unknown club,€4.50m,https://www.transfermarkt.com/finn-van-breemen/profil/spieler/705016,Centre-Back,21,,,€4.50m,6,0,0,1,{}
+Jordan James,Jordan James,Jordan JamesCentral Midfield,Unknown club,€4.50m,https://www.transfermarkt.com/jordan-james/profil/spieler/667517,Central Midfield,20,,,€4.50m,6,0,0,0,{}
+Yasin Ayari,Yasin Ayari,Yasin AyariCentral Midfield,Unknown club,€4.50m,https://www.transfermarkt.com/yasin-ayari/profil/spieler/667287,Central Midfield,21,,,€4.50m,15,1,0,0,{}
+Roko Simic,Roko Simic,Roko SimicCentre-Forward,Unknown club,€4.50m,https://www.transfermarkt.com/roko-simic/profil/spieler/658693,Centre-Forward,21,,,€4.50m,4,0,0,0,{}
+Juan Larios,Juan Larios,Juan LariosLeft-Back,Unknown club,€4.50m,https://www.transfermarkt.com/juan-larios/profil/spieler/646738,Left-Back,20,,,€4.50m,5,0,0,0,{}
+Filippo Terracciano,Filippo Terracciano,Filippo TerraccianoRight-Back,Unknown club,€4.50m,https://www.transfermarkt.com/filippo-terracciano/profil/spieler/631007,Right-Back,21,,,€4.50m,4,0,0,0,{}
+Kacper Kozlowski,Kacper Kozlowski,Kacper KozlowskiCentral Midfield,Unknown club,€4.50m,https://www.transfermarkt.com/kacper-kozlowski/profil/spieler/554284,Central Midfield,21,,,€4.50m,9,1,0,3,{}
+Matías Moreno,Matías Moreno,Matías MorenoCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/matias-moreno/profil/spieler/1144700,Centre-Back,21,,,€4.00m,3,0,0,0,{}
+Anton Matkovic,Anton Matkovic,Anton MatkovicCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/anton-matkovic/profil/spieler/1121427,Centre-Forward,18,,,€4.00m,12,2,0,1,{}
+Enso González,Enso González,Enso GonzálezLeft Winger,Unknown club,€4.00m,https://www.transfermarkt.com/enso-gonzalez/profil/spieler/1060740,Left Winger,19,,,€4.00m,0,0,0,0,{}
+Niko Sigur,Niko Sigur,Niko SigurDefensive Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/niko-sigur/profil/spieler/1045375,Defensive Midfield,21,,,€4.00m,13,2,0,0,{}
+Mahamadou Doumbia,Mahamadou Doumbia,Mahamadou DoumbiaCentral Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/mahamadou-doumbia/profil/spieler/1033919,Central Midfield,20,,,€4.00m,11,1,0,0,{}
+Ngal'ayel Mukau,Ngal'ayel Mukau,Ngal'ayel MukauDefensive Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/ngalayel-mukau/profil/spieler/1016015,Defensive Midfield,20,,,€4.00m,13,0,0,0,{}
+Giovane,Giovane,GiovaneCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/giovane/profil/spieler/1005165,Centre-Forward,20,,,€4.00m,0,0,0,0,{}
+Benja Cremaschi,Benja Cremaschi,Benja CremaschiCentral Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/benja-cremaschi/profil/spieler/999127,Central Midfield,19,,,€4.00m,1,2,0,0,{}
+Cristian Shpendi,Cristian Shpendi,Cristian ShpendiCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/cristian-shpendi/profil/spieler/908760,Centre-Forward,21,,,€4.00m,15,10,0,0,{}
+Reuell Walters,Reuell Walters,Reuell WaltersRight-Back,Unknown club,€4.00m,https://www.transfermarkt.com/reuell-walters/profil/spieler/878160,Right-Back,19,,,€4.00m,10,0,0,0,{}
+Alan Matturro,Alan Matturro,Alan MatturroCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/alan-matturro/profil/spieler/861981,Centre-Back,20,,,€4.00m,7,0,0,0,{}
+Mihajlo Ilic,Mihajlo Ilic,Mihajlo IlicCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/mihajlo-ilic/profil/spieler/845566,Centre-Back,21,,,€4.00m,8,2,0,0,{}
+Marc Pubill,Marc Pubill,Marc PubillRight-Back,Unknown club,€4.00m,https://www.transfermarkt.com/marc-pubill/profil/spieler/844637,Right-Back,21,,,€4.00m,10,0,0,0,{}
+Facundo González,Facundo González,Facundo GonzálezCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/facundo-gonzalez/profil/spieler/825199,Centre-Back,21,,,€4.00m,4,0,0,0,{}
+Tim Drexler,Tim Drexler,Tim DrexlerCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/tim-drexler/profil/spieler/822958,Centre-Back,19,,,€4.00m,15,0,0,0,{}
+Ayman Kari,Ayman Kari,Ayman KariCentral Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/ayman-kari/profil/spieler/810093,Central Midfield,19,,,€4.00m,0,0,0,0,{}
+Hendry Blank,Hendry Blank,Hendry BlankCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/hendry-blank/profil/spieler/804831,Centre-Back,20,,,€4.00m,10,0,0,1,{}
+Quinn Sullivan,Quinn Sullivan,Quinn SullivanCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/quinn-sullivan/profil/spieler/795232,Centre-Forward,20,,,€4.00m,0,0,0,0,{}
+Benjamin Tahirovic,Benjamin Tahirovic,Benjamin TahirovicDefensive Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/benjamin-tahirovic/profil/spieler/787907,Defensive Midfield,21,,,€4.00m,7,0,0,1,{}
+Pietro Comuzzo,Pietro Comuzzo,Pietro ComuzzoCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/pietro-comuzzo/profil/spieler/746712,Centre-Back,19,,,€4.00m,15,0,0,0,{}
+Arijon Ibrahimovic,Arijon Ibrahimovic,Arijon IbrahimovicLeft Winger,Unknown club,€4.00m,https://www.transfermarkt.com/arijon-ibrahimovic/profil/spieler/744728,Left Winger,18,,,€4.00m,5,2,0,0,{}
+Biro,Biro,BiroRight Winger,Unknown club,€4.00m,https://www.transfermarkt.com/biro/profil/spieler/743590,Right Winger,20,,,€4.00m,6,2,0,0,{}
+Jorne Spileers,Jorne Spileers,Jorne SpileersCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/jorne-spileers/profil/spieler/743381,Centre-Back,19,,,€4.00m,10,1,0,0,{}
+Jhon Solís,Jhon Solís,Jhon SolísCentral Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/jhon-solis/profil/spieler/742521,Central Midfield,20,,,€4.00m,8,0,0,0,{}
+Álex Jiménez,Álex Jiménez,Álex JiménezRight-Back,Unknown club,€4.00m,https://www.transfermarkt.com/alex-jimenez/profil/spieler/741257,Right-Back,19,,,€4.00m,12,4,0,0,{}
+Nino Marcelli,Nino Marcelli,Nino MarcelliLeft Winger,Unknown club,€4.00m,https://www.transfermarkt.com/nino-marcelli/profil/spieler/726661,Left Winger,19,,,€4.00m,29,4,0,5,{}
+Nazar Voloshyn,Nazar Voloshyn,Nazar VoloshynLeft Winger,Unknown club,€4.00m,https://www.transfermarkt.com/nazar-voloshyn/profil/spieler/726034,Left Winger,21,,,€4.00m,19,1,0,5,{}
+Jack McGlynn,Jack McGlynn,Jack McGlynnCentral Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/jack-mcglynn/profil/spieler/724547,Central Midfield,21,,,€4.00m,0,0,0,0,{}
+Brian Gutiérrez,Brian Gutiérrez,Brian GutiérrezAttacking Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/brian-gutierrez/profil/spieler/724443,Attacking Midfield,21,,,€4.00m,0,0,0,0,{}
+Luca Lipani,Luca Lipani,Luca LipaniDefensive Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/luca-lipani/profil/spieler/724106,Defensive Midfield,19,,,€4.00m,11,1,0,1,{}
+Samed Bazdar,Samed Bazdar,Samed BazdarCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/samed-bazdar/profil/spieler/710969,Centre-Forward,20,,,€4.00m,13,4,0,3,{}
+Bryan González,Bryan González,Bryan GonzálezLeft-Back,Unknown club,€4.00m,https://www.transfermarkt.com/bryan-gonzalez/profil/spieler/704556,Left-Back,21,,,€4.00m,16,0,0,1,{}
+Keke Topp,Keke Topp,Keke ToppCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/keke-topp/profil/spieler/701757,Centre-Forward,20,,,€4.00m,11,4,0,1,{}
+Abu Kamara,Abu Kamara,Abu KamaraRight Winger,Unknown club,€4.00m,https://www.transfermarkt.com/abu-kamara/profil/spieler/696764,Right Winger,21,,,€4.00m,10,1,0,2,{}
+Tim Oermann,Tim Oermann,Tim OermannCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/tim-oermann/profil/spieler/696164,Centre-Back,21,,,€4.00m,7,0,0,0,{}
+Tom Cannon,Tom Cannon,Tom CannonCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/tom-cannon/profil/spieler/669366,Centre-Forward,21,,,€4.00m,13,7,0,1,{}
+Hugo Bolin,Hugo Bolin,Hugo BolinLeft Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/hugo-bolin/profil/spieler/667251,Left Midfield,21,,,€4.00m,11,2,0,0,{}
+Gabriel Slonina,Gabriel Slonina,Gabriel SloninaGoalkeeper,Unknown club,€4.00m,https://www.transfermarkt.com/gabriel-slonina/profil/spieler/656316,Goalkeeper,20,,,€4.00m,14,0,0,0,{}
+Emin Bayram,Emin Bayram,Emin BayramCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/emin-bayram/profil/spieler/655902,Centre-Back,21,,,€4.00m,8,1,0,0,{}
+Abdoullah Ba,Abdoullah Ba,Abdoullah BaRight Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/abdoullah-ba/profil/spieler/654412,Right Midfield,21,,,€4.00m,3,1,0,0,{}
+Cher Ndour,Cher Ndour,Cher NdourCentral Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/cher-ndour/profil/spieler/651005,Central Midfield,20,,,€4.00m,13,0,0,2,{}
+Rav van den Berg,Rav van den Berg,Rav van den BergCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/rav-van-den-berg/profil/spieler/640556,Centre-Back,20,,,€4.00m,8,0,0,0,{}
+Calvin Ramsay,Calvin Ramsay,Calvin RamsayRight-Back,Unknown club,€4.00m,https://www.transfermarkt.com/calvin-ramsay/profil/spieler/633652,Right-Back,21,,,€4.00m,10,0,0,0,{}
+Raúl Moro,Raúl Moro,Raúl MoroLeft Winger,Unknown club,€4.00m,https://www.transfermarkt.com/raul-moro/profil/spieler/624942,Left Winger,21,,,€4.00m,13,3,0,1,{}
+Jesús Vázquez,Jesús Vázquez,Jesús VázquezLeft-Back,Unknown club,€4.00m,https://www.transfermarkt.com/jesus-vazquez/profil/spieler/623024,Left-Back,21,,,€4.00m,8,0,0,0,{}
+Jonas Urbig,Jonas Urbig,Jonas UrbigGoalkeeper,Unknown club,€4.00m,https://www.transfermarkt.com/jonas-urbig/profil/spieler/607720,Goalkeeper,21,,,€4.00m,11,0,0,0,{}
+Samuel Dahl,Samuel Dahl,Samuel DahlLeft-Back,Unknown club,€4.00m,https://www.transfermarkt.com/samuel-dahl/profil/spieler/605396,Left-Back,21,,,€4.00m,3,0,0,0,{}
+Stipe Biuk,Stipe Biuk,Stipe BiukLeft Winger,Unknown club,€4.00m,https://www.transfermarkt.com/stipe-biuk/profil/spieler/587520,Left Winger,21,,,€4.00m,10,1,0,1,{}
+Alvyn Sanches,Alvyn Sanches,Alvyn SanchesCentral Midfield,Unknown club,€4.00m,https://www.transfermarkt.com/alvyn-sanches/profil/spieler/583058,Central Midfield,21,,,€4.00m,16,7,0,1,{}
+Mattia Zanotti,Mattia Zanotti,Mattia ZanottiRight-Back,Unknown club,€4.00m,https://www.transfermarkt.com/mattia-zanotti/profil/spieler/582353,Right-Back,21,,,€4.00m,14,1,0,3,{}
+Albian Hajdari,Albian Hajdari,Albian HajdariCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/albian-hajdari/profil/spieler/579459,Centre-Back,21,,,€4.00m,14,0,0,0,{}
+Josh Wilson-Esbrand,Josh Wilson-Esbrand,Josh Wilson-EsbrandLeft-Back,Unknown club,€4.00m,https://www.transfermarkt.com/josh-wilson-esbrand/profil/spieler/576121,Left-Back,21,,,€4.00m,3,0,0,1,{}
+Armindo Sieb,Armindo Sieb,Armindo SiebSecond Striker,Unknown club,€4.00m,https://www.transfermarkt.com/armindo-sieb/profil/spieler/569033,Second Striker,21,,,€4.00m,12,2,0,0,{}
+Nathan Ngoy,Nathan Ngoy,Nathan NgoyCentre-Back,Unknown club,€4.00m,https://www.transfermarkt.com/nathan-ngoy/profil/spieler/548254,Centre-Back,21,,,€4.00m,4,0,0,0,{}
+Franjo Ivanovic,Franjo Ivanovic,Franjo IvanovicCentre-Forward,Unknown club,€4.00m,https://www.transfermarkt.com/franjo-ivanovic/profil/spieler/548028,Centre-Forward,21,,,€4.00m,22,6,0,4,{}
+Ronnie Edwards,Ronnie Edwards,Ronnie EdwardsCentre-Back,Unknown club,€3.80m,https://www.transfermarkt.com/ronnie-edwards/profil/spieler/732165,Centre-Back,21,,,€3.80m,3,0,1,0,{}
+Gerónimo Rivera,Gerónimo Rivera,Gerónimo RiveraLeft Winger,Unknown club,€3.50m,https://www.transfermarkt.com/geronimo-rivera/profil/spieler/1146094,Left Winger,21,,,€3.50m,0,0,0,0,{}
+Yunus Emre Konak,Yunus Emre Konak,Yunus Emre KonakDefensive Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/yunus-emre-konak/profil/spieler/1141628,Defensive Midfield,18,,,€3.50m,6,0,0,0,{}
+Christopher Bonsu Baah,Christopher Bonsu Baah,Christopher Bonsu BaahLeft Winger,Unknown club,€3.50m,https://www.transfermarkt.com/christopher-bonsu-baah/profil/spieler/1119447,Left Winger,19,,,€3.50m,15,2,0,3,{}
+Thiago Helguera,Thiago Helguera,Thiago HelgueraDefensive Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/thiago-helguera/profil/spieler/997827,Defensive Midfield,18,,,€3.50m,7,0,0,1,{}
+Joaquin Seys,Joaquin Seys,Joaquin SeysLeft-Back,Unknown club,€3.50m,https://www.transfermarkt.com/joaquin-seys/profil/spieler/981196,Left-Back,19,,,€3.50m,18,2,0,0,{}
+Óscar Cortés,Óscar Cortés,Óscar CortésLeft Winger,Unknown club,€3.50m,https://www.transfermarkt.com/oscar-cortes/profil/spieler/975689,Left Winger,20,,,€3.50m,3,0,0,0,{}
+Álvaro Rodríguez,Álvaro Rodríguez,Álvaro RodríguezCentre-Forward,Unknown club,€3.50m,https://www.transfermarkt.com/alvaro-rodriguez/profil/spieler/948275,Centre-Forward,20,,,€3.50m,6,0,0,0,{}
+Anderson Duarte,Anderson Duarte,Anderson DuarteRight Winger,Unknown club,€3.50m,https://www.transfermarkt.com/anderson-duarte/profil/spieler/928648,Right Winger,20,,,€3.50m,7,1,0,0,{}
+Matías Abaldo,Matías Abaldo,Matías AbaldoRight Winger,Unknown club,€3.50m,https://www.transfermarkt.com/matias-abaldo/profil/spieler/928647,Right Winger,20,,,€3.50m,0,0,0,0,{}
+Cuiabano,Cuiabano,CuiabanoLeft-Back,Unknown club,€3.50m,https://www.transfermarkt.com/cuiabano/profil/spieler/891353,Left-Back,21,,,€3.50m,0,0,0,0,{}
+Obed Vargas,Obed Vargas,Obed VargasCentral Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/obed-vargas/profil/spieler/889435,Central Midfield,19,,,€3.50m,3,0,0,0,{}
+Kevin Zeroli,Kevin Zeroli,Kevin ZeroliCentral Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/kevin-zeroli/profil/spieler/883349,Central Midfield,19,,,€3.50m,18,1,0,0,{}
+Nicolás Romero,Nicolás Romero,Nicolás RomeroCentre-Back,Unknown club,€3.50m,https://www.transfermarkt.com/nicolas-romero/profil/spieler/863144,Centre-Back,20,,,€3.50m,0,0,0,0,{}
+Nasser Djiga,Nasser Djiga,Nasser DjigaCentre-Back,Unknown club,€3.50m,https://www.transfermarkt.com/nasser-djiga/profil/spieler/862297,Centre-Back,21,,,€3.50m,19,1,0,0,{}
+Metinho,Metinho,MetinhoCentral Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/metinho/profil/spieler/859396,Central Midfield,21,,,€3.50m,10,0,0,0,{}
+Tom Bischof,Tom Bischof,Tom BischofCentral Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/tom-bischof/profil/spieler/822959,Central Midfield,19,,,€3.50m,15,1,0,2,{}
+Arthur Piedfort,Arthur Piedfort,Arthur PiedfortDefensive Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/arthur-piedfort/profil/spieler/775981,Defensive Midfield,19,,,€3.50m,14,0,0,0,{}
+Charlie Hughes,Charlie Hughes,Charlie HughesCentre-Back,Unknown club,€3.50m,https://www.transfermarkt.com/charlie-hughes/profil/spieler/746357,Centre-Back,21,,,€3.50m,8,0,0,1,{}
+Brahim Traoré,Brahim Traoré,Brahim TraoréCentre-Back,Unknown club,€3.50m,https://www.transfermarkt.com/brahim-traore/profil/spieler/743517,Centre-Back,20,,,€3.50m,9,0,0,1,{}
+Cihan Çanak,Cihan Çanak,Cihan ÇanakRight Winger,Unknown club,€3.50m,https://www.transfermarkt.com/cihan-canak/profil/spieler/743376,Right Winger,19,,,€3.50m,14,1,0,0,{}
+Mario Mitaj,Mario Mitaj,Mario MitajLeft-Back,Unknown club,€3.50m,https://www.transfermarkt.com/mario-mitaj/profil/spieler/726114,Left-Back,21,,,€3.50m,16,1,0,2,{}
+Dor Turgeman,Dor Turgeman,Dor TurgemanCentre-Forward,Unknown club,€3.50m,https://www.transfermarkt.com/dor-turgeman/profil/spieler/703460,Centre-Forward,21,,,€3.50m,14,8,0,4,{}
+Jay Stansfield,Jay Stansfield,Jay StansfieldCentre-Forward,Unknown club,€3.50m,https://www.transfermarkt.com/jay-stansfield/profil/spieler/696346,Centre-Forward,21,,,€3.50m,13,8,0,1,{}
+Dário Essugo,Dário Essugo,Dário EssugoDefensive Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/dario-essugo/profil/spieler/670717,Defensive Midfield,19,,,€3.50m,10,0,0,0,{}
+Leon Avdullahu,Leon Avdullahu,Leon AvdullahuDefensive Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/leon-avdullahu/profil/spieler/667457,Defensive Midfield,20,,,€3.50m,14,1,0,0,{}
+Julián Aude,Julián Aude,Julián AudeLeft-Back,Unknown club,€3.50m,https://www.transfermarkt.com/julian-aude/profil/spieler/661128,Left-Back,21,,,€3.50m,0,0,0,0,{}
+Serdar Saatçı,Serdar Saatçı,Serdar SaatçıCentre-Back,Unknown club,€3.50m,https://www.transfermarkt.com/serdar-saatci/profil/spieler/655899,Centre-Back,21,,,€3.50m,4,0,0,0,{}
+Matteo Dams,Matteo Dams,Matteo DamsCentre-Back,Unknown club,€3.50m,https://www.transfermarkt.com/matteo-dams/profil/spieler/654918,Centre-Back,20,,,€3.50m,18,0,0,0,{}
+Alan Virginius,Alan Virginius,Alan VirginiusLeft Winger,Unknown club,€3.50m,https://www.transfermarkt.com/alan-virginius/profil/spieler/654415,Left Winger,21,,,€3.50m,15,6,0,0,{}
+Samuele Vignato,Samuele Vignato,Samuele VignatoAttacking Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/samuele-vignato/profil/spieler/650966,Attacking Midfield,20,,,€3.50m,6,0,0,0,{}
+Myron van Brederode,Myron van Brederode,Myron van BrederodeLeft Winger,Unknown club,€3.50m,https://www.transfermarkt.com/myron-van-brederode/profil/spieler/650712,Left Winger,21,,,€3.50m,11,1,0,1,{}
+Shola Shoretire,Shola Shoretire,Shola ShoretireRight Winger,Unknown club,€3.50m,https://www.transfermarkt.com/shola-shoretire/profil/spieler/640026,Right Winger,20,,,€3.50m,9,1,0,0,{}
+Tobias Gulliksen,Tobias Gulliksen,Tobias GulliksenRight Winger,Unknown club,€3.50m,https://www.transfermarkt.com/tobias-gulliksen/profil/spieler/619657,Right Winger,21,,,€3.50m,9,1,0,1,{}
+William Bøving,William Bøving,William BøvingLeft Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/william-boving/profil/spieler/610400,Left Midfield,21,,,€3.50m,19,1,0,5,{}
+Gabriel Vidovic,Gabriel Vidovic,Gabriel VidovicLeft Winger,Unknown club,€3.50m,https://www.transfermarkt.com/gabriel-vidovic/profil/spieler/604327,Left Winger,20,,,€3.50m,2,0,0,0,{}
+Ísak Jóhannesson,Ísak Jóhannesson,Ísak JóhannessonCentral Midfield,Unknown club,€3.50m,https://www.transfermarkt.com/isak-johannesson/profil/spieler/579565,Central Midfield,21,,,€3.50m,15,2,0,4,{}
+Jerónimo Dómina,Jerónimo Dómina,Jerónimo DóminaCentre-Forward,Unknown club,€3.20m,https://www.transfermarkt.com/jeronimo-domina/profil/spieler/1103986,Centre-Forward,19,,,€3.20m,0,0,0,0,{}
+Micah Hamilton,Micah Hamilton,Micah HamiltonLeft Winger,Unknown club,€3.20m,https://www.transfermarkt.com/micah-hamilton/profil/spieler/652797,Left Winger,21,,,€3.20m,13,0,0,0,{}
+Taha Altıkardeş,Taha Altıkardeş,Taha AltıkardeşCentre-Back,Unknown club,€3.10m,https://www.transfermarkt.com/taha-altikardes/profil/spieler/745233,Centre-Back,21,,,€3.10m,10,1,0,1,{}
+Edmund Baidoo,Edmund Baidoo,Edmund BaidooRight Winger,Unknown club,€3.00m,https://www.transfermarkt.com/edmund-baidoo/profil/spieler/1236853,Right Winger,18,,,€3.00m,10,3,0,3,{}
+Gabriel Carvalho,Gabriel Carvalho,Gabriel CarvalhoAttacking Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/gabriel-carvalho/profil/spieler/1089144,Attacking Midfield,17,,,€3.00m,0,0,0,0,{}
+Honest Ahanor,Honest Ahanor,Honest AhanorLeft-Back,Unknown club,€3.00m,https://www.transfermarkt.com/honest-ahanor/profil/spieler/1077175,Left-Back,16,,,€3.00m,4,1,0,0,{}
+Javi Rodríguez,Javi Rodríguez,Javi RodríguezCentre-Back,Unknown club,€3.00m,https://www.transfermarkt.com/javi-rodriguez/profil/spieler/1076815,Centre-Back,21,,,€3.00m,13,1,0,1,{}
+Pontus Dahbo,Pontus Dahbo,Pontus DahboAttacking Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/pontus-dahbo/profil/spieler/1065043,Attacking Midfield,19,,,€3.00m,5,0,0,1,{}
+Mahamadou Diawara,Mahamadou Diawara,Mahamadou DiawaraCentral Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/mahamadou-diawara/profil/spieler/1053147,Central Midfield,19,,,€3.00m,6,0,0,0,{}
+Yaya Fofana,Yaya Fofana,Yaya FofanaCentral Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/yaya-fofana/profil/spieler/1044893,Central Midfield,20,,,€3.00m,10,1,0,1,{}
+Rubén Lezcano,Rubén Lezcano,Rubén LezcanoAttacking Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/ruben-lezcano/profil/spieler/1039533,Attacking Midfield,20,,,€3.00m,0,0,0,0,{}
+Óscar Perea,Óscar Perea,Óscar PereaLeft Winger,Unknown club,€3.00m,https://www.transfermarkt.com/oscar-perea/profil/spieler/1015624,Left Winger,19,,,€3.00m,3,0,0,0,{}
+Agustín Ruberto,Agustín Ruberto,Agustín RubertoCentre-Forward,Unknown club,€3.00m,https://www.transfermarkt.com/agustin-ruberto/profil/spieler/1000688,Centre-Forward,18,,,€3.00m,1,0,0,0,{}
+Fidel Barajas,Fidel Barajas,Fidel BarajasRight Winger,Unknown club,€3.00m,https://www.transfermarkt.com/fidel-barajas/profil/spieler/994267,Right Winger,18,,,€3.00m,6,0,0,0,{}
+Damián García,Damián García,Damián GarcíaDefensive Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/damian-garcia/profil/spieler/981056,Defensive Midfield,21,,,€3.00m,0,0,0,0,{}
+Igor Jesus,Igor Jesus,Igor JesusDefensive Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/igor-jesus/profil/spieler/978037,Defensive Midfield,21,,,€3.00m,8,0,0,0,{}
+Romain Esse,Romain Esse,Romain EsseAttacking Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/romain-esse/profil/spieler/967319,Attacking Midfield,19,,,€3.00m,21,4,0,1,{}
+Matheus Gonçalves,Matheus Gonçalves,Matheus GonçalvesRight Winger,Unknown club,€3.00m,https://www.transfermarkt.com/matheus-goncalves/profil/spieler/961046,Right Winger,19,,,€3.00m,1,0,0,0,{}
+Nestory Irankunda,Nestory Irankunda,Nestory IrankundaRight Winger,Unknown club,€3.00m,https://www.transfermarkt.com/nestory-irankunda/profil/spieler/956920,Right Winger,18,,,€3.00m,13,5,0,2,{}
+Tidiam Gomis,Tidiam Gomis,Tidiam GomisLeft Winger,Unknown club,€3.00m,https://www.transfermarkt.com/tidiam-gomis/profil/spieler/955448,Left Winger,18,,,€3.00m,18,3,0,2,{}
+Marin Soticek,Marin Soticek,Marin SoticekRight Winger,Unknown club,€3.00m,https://www.transfermarkt.com/marin-soticek/profil/spieler/945345,Right Winger,20,,,€3.00m,14,3,0,3,{}
+Mikel Jauregizar,Mikel Jauregizar,Mikel JauregizarCentral Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/mikel-jauregizar/profil/spieler/938729,Central Midfield,21,,,€3.00m,12,1,0,0,{}
+Gustavo Puerta,Gustavo Puerta,Gustavo PuertaCentral Midfield,Unknown club,€3.00m,https://www.transfermarkt.com/gustavo-puerta/profil/spieler/936981,Central Midfield,21,,,€3.00m,6,0,0,0,{}
